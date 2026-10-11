@@ -1,0 +1,19 @@
+{
+  "sha256": "ec60d816f2b4757a4c183ae776dc1c019fc7b9a14f4092df824d1024fed3de9d",
+  "bytes": 3511825260,
+  "schema": 1,
+  "version": "1.5",
+  "notes": "SA SHOOT 1.5 public test: updated login/lobby, combat reports and verified updates. Photon connection timeouts remain a known issue.",
+  "parts": [
+    {
+      "sha256": "e97e51853515ff1d0c0ea94dad2aa8c940a6f8295d14326fc1032da84dcb1008",
+      "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.5/SA-SHOOT-1.5.part00",
+      "bytes": 1992294400
+    },
+    {
+      "sha256": "831b06191a8747a6f103651a526579642554473edce5c883ee6c7e0867a9006f",
+      "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.5/SA-SHOOT-1.5.part01",
+      "bytes": 1519530860
+    }
+  ]
+}
