@@ -1,39 +1,110 @@
-# SA SHOOT
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner.png">
+  <img src="assets/banner.gif" alt="SA SHOOT — Your squad. Your round. Tactical arena for 1v1, 2v2 and 3v3." width="1200">
+</picture>
 
-Windows downloads for SA SHOOT.
+<p align="center">
+  <img src="assets/versions.svg" alt="Current game: v1.6 · Launcher: v3.0 · Public test · Windows 64-bit" width="700">
+</p>
 
-## Download
+<p align="center">
+  <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/v1.6/SA-SHOOT-Setup.exe">
+    <img src="assets/download-windows.svg" alt="Download SA SHOOT Launcher 3.0 for Windows — 70.8 MB" width="430">
+  </a>
+  <br>
+  <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/v1.6/SA-SHOOT-Setup.exe">Download launcher</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.6">What's new in v1.6</a>
+  &nbsp; · &nbsp;
+  <a href="#start-playing">Installation guide</a>
+  &nbsp; · &nbsp;
+  <a href="#العربية">العربية</a>
+</p>
 
-[Download SA SHOOT Launcher 3.0](https://github.com/salah-del/sa-shoot-releases/releases/download/v1.6/SA-SHOOT-Setup.exe)
+<p align="center"><strong>Game v1.6 · Launcher v3.0</strong><br>Windows 64-bit · Internet connection and a SA SHOOT account required.</p>
 
-[Version 1.6 release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.6)
+> **Already using Launcher 2.0?** Open the new launcher once and choose **LOCATE GAME**. Keep your installed game. Future launcher updates appear inside the launcher.
 
-Open **SA-SHOOT-Setup.exe**. Choose **DOWNLOAD** for a new installation, or **LOCATE GAME** and select the folder containing **SA SHOOT.exe** and **SA SHOOT_Data**.
+## Start playing
 
-Already on game 1.5? **UPDATE GAME** downloads about **827 MB** for 22 changed files, reusing the rest of the game. **PLAY** unlocks after all required files verify. Your account and settings are stored separately. A registered SA SHOOT account is required before entering the lobby.
+| 🖥️ First time here? | 📂 Already have the game? |
+| :--- | :--- |
+| **1.** Open **SA-SHOOT-Setup.exe**. | **1.** Open the new launcher and choose **LOCATE GAME**. |
+| **2.** Select your folder and press **DOWNLOAD**. | **2.** Select the folder containing **SA SHOOT.exe** and **SA SHOOT_Data**. |
+| **3.** When installation finishes, press **PLAY**. | **3.** Press **UPDATE GAME**, then **PLAY** when it's ready. |
 
-## Updating the launcher
+**Updating from game 1.5?** The 1.6 update downloads about **827 MB**. Your unchanged game files stay in place. A new installation needs the complete game; the launcher shows the required download size.
 
-**If you have Launcher 2.0, download and open Launcher 3.0 once. Keep your game installed.** Version 2.0 did not have self-update functionality. Version 3.0 and later offer **UPDATE LAUNCHER** inside the application, preserve your game folder, and recover the previous launcher if the replacement fails to start.
+## Your next lobby
 
-## Updating the game
+![SA SHOOT 1.6 lobby: Wraith squad, game modes, party, friends and matchmaking.](assets/lobby.png)
 
-Only missing, changed or damaged files download. Large updates are split into resumable ranges; there is no fallback that downloads the whole game for an existing verified installation. A change to a Unity content file still requires downloading that changed file in full.
+<p align="center"><sub>Version 1.6 lobby preview · Example party shown.</sub></p>
 
-The launcher shows download bytes, speed and estimated remaining time. **PAUSE / RESUME** retains partial downloads. Settings include game location, verification/repair and reduced motion. The default game folder is `%LOCALAPPDATA%\Programs\SA SHOOT`. A separate launcher copy and Start-menu shortcut are kept after installation or first play.
+### What's new
 
-New players need the complete current game, assembled automatically from verified content in this and earlier releases. Files named `.partNN` are download data, not individual installers. Keep an Internet connection and enough free disk space for downloads, installation and rollback; the launcher checks space before installing.
+- **A new lobby:** Wraith portraits, animated controls, particles and separate interface sounds.
+- **Smaller updates:** download only changed or damaged files, with pause and resume.
+- **A launcher that stays up to date:** choose **UPDATE LAUNCHER** when a new version is ready.
 
-The launcher checks updates before play and after leaving a match. Game 1.6 also checks while running; an active match is allowed to finish before returning to the launcher for an update. Launch the game through the launcher. The local launch ticket is an application entry check, not tamper-proof DRM.
+## Quick help
 
-The executable is not code-signed, so Windows may display an unknown-publisher notice. No administrator access or changes to Windows security settings are required.
+<details>
+<summary><strong>Which files do I need to download?</strong></summary>
 
-## Public test status
+Just **SA-SHOOT-Setup.exe**, using the button above. The launcher handles the game files. You do not need the `.partNN` files or GitHub's “Source code” downloads.
 
-Version 1.6 is an **early public test**. It adds the industrial Wraith lobby, animated 2.5D portraits, updated interface and sound cues, and file-based game updates.
+</details>
 
-The real 1.5-to-1.6 local upgrade, all 284 runtime hashes, launcher handshake, resumable downloads, repair, interrupted-install recovery and launcher replacement/rollback were tested. Lobby routes, settings, Unity Play/Stop cycles and live region probes were also checked.
+<details>
+<summary><strong>How do updates and interrupted downloads work?</strong></summary>
 
-Earlier two-client same-computer online round/reconnection tests passed. Intermittent Photon connection/TLS timeouts remain under review. A complete match across independent Internet connections and a real 100-player concurrent load test have **not** been validated. GitHub hosts downloads; Photon and Unity services handle gameplay connectivity.
+Use **UPDATE GAME** when prompted. Only changed, missing or damaged files download; the rest are reused. If your connection drops, use **RESUME** or **RETRY**. **PLAY** unlocks after the required files are verified.
 
-This repository contains compiled downloads and channel metadata only. The Unity project, source code, account credentials, diagnostic logs and development backups are not published here.
+The launcher keeps your game folder when it updates itself. Updates do not replace game files during an active match. Your account and settings are kept separately.
+
+</details>
+
+<details>
+<summary><strong>The game needs repair, or Windows shows an unfamiliar publisher.</strong></summary>
+
+For missing or damaged files, open launcher **SETTINGS → VERIFY / REPAIR GAME FILES**.
+
+This public-test launcher is not code-signed yet, so Windows may show an unknown-publisher notice. Use the download link on this page. No changes to Windows security settings are required.
+
+</details>
+
+<details>
+<summary><strong>Public-test status and known issues</strong></summary>
+
+SA SHOOT 1.6 is an **early public test**. Some players may still encounter connection issues. See the [release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.6) for known limitations and update details.
+
+</details>
+
+## العربية
+
+<details>
+<summary><strong>🇪🇬 التحميل والتثبيت والتحديث</strong></summary>
+
+<div dir="rtl">
+
+الإصدار الحالي للعبة **1.6**، وإصدار اللانشر **3.0**.
+
+1. نزّل اللانشر من زر **Download** الموجود فوق وافتحه.
+2. لو أول مرة تثبّت اللعبة، اختار المسار واضغط **DOWNLOAD**.
+3. لو اللعبة موجودة عندك، اضغط **LOCATE GAME** واختار الفولدر اللي فيه **SA SHOOT.exe** و**SA SHOOT_Data**، وبعدها **UPDATE GAME**.
+4. بعد اكتمال التنزيل وفحص الملفات، اضغط **PLAY**.
+
+التحديث من **1.5** إلى **1.6** حوالي **827 ميجابايت**؛ مش محتاج تنزّل اللعبة كاملة من جديد.
+
+لو عندك اللانشر القديم **2.0**، افتح الجديد مرة واحدة بس واختار لعبتك الموجودة. بعد كده تحديثات اللانشر نفسه هتظهر جواه. **ما تمسحش اللعبة**، ومش محتاج تنزّل ملفات الأجزاء بنفسك.
+
+اللعبة حاليًا نسخة اختبار عام، ومحتاجة إنترنت وحساب SA SHOOT.
+
+</div>
+
+</details>
+
+---
+
+<p align="center"><img src="assets/game-icon.png" alt="SA SHOOT game icon" width="40"><br><strong>SA / SHOOT</strong><br><sub>Your squad. Your round.</sub></p>
