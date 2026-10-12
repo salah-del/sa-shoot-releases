@@ -1,31 +1,39 @@
 # SA SHOOT
 
-Windows downloads and the update channel for SA SHOOT.
+Windows downloads for SA SHOOT.
 
 ## Download
 
-[Download SA SHOOT Setup](https://github.com/salah-del/sa-shoot-releases/releases/download/v1.5/SA-SHOOT-Setup.exe)
+[Download SA SHOOT Launcher 3.0](https://github.com/salah-del/sa-shoot-releases/releases/download/v1.6/SA-SHOOT-Setup.exe)
 
-[Release notes and files](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.5)
+[Version 1.6 release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.6)
 
-Download and open **SA-SHOOT-Setup.exe**, the graphical SA SHOOT launcher. Choose **DOWNLOAD** for a new installation, or **LOCATE GAME** and select the folder containing an existing `SA SHOOT.exe`. A compatible 1.5 installation is reused and needs only the approximately 850 KB launcher integration patch. An incompatible or damaged copy offers installation/repair.
+Open **SA-SHOOT-Setup.exe**. Choose **DOWNLOAD** for a new installation, or **LOCATE GAME** and select the folder containing **SA SHOOT.exe** and **SA SHOOT_Data**.
 
-**PLAY** appears only after the required files are installed and verified. Installation never starts the game automatically. Launch the prepared game through the launcher; directly opening its game executable is rejected. Older, unpatched copies need to pass through the new launcher once to enable this behavior. A registered SA SHOOT account is still required before entering the lobby.
+Already on game 1.5? **UPDATE GAME** downloads about **827 MB** for 22 changed files, reusing the rest of the game. **PLAY** unlocks after all required files verify. Your account and settings are stored separately. A registered SA SHOOT account is required before entering the lobby.
 
-Allow approximately 25 GB of free disk space for download, extraction, installation and rollback files. Keep an internet connection available. The executable is not code-signed; Windows may show an unknown-publisher notice. No administrator rights or changes to Windows security settings are required.
+## Updating the launcher
 
-The launcher displays real downloaded bytes, speed and estimated remaining time. **PAUSE / RESUME** retains partial downloads; interrupted transfers retry from saved bytes when supported by the download server. Settings includes installation location, file verification and reduced motion. The default game folder is `%LOCALAPPDATA%\Programs\SA SHOOT`. The launcher keeps a separate copy and a Start-menu shortcut after installation or first play.
+**If you have Launcher 2.0, download and open Launcher 3.0 once. Keep your game installed.** Version 2.0 did not have self-update functionality. Version 3.0 and later offer **UPDATE LAUNCHER** inside the application, preserve your game folder, and recover the previous launcher if the replacement fails to start.
 
-## Updates
+## Updating the game
 
-The launcher checks `launcher.json` and verifies installed runtime files before granting a one-use local launch ticket. The game also checks `windows.json` while running. A required game update blocks new play; a match already in progress is allowed to finish. Account data, settings and match history live separately from game files. The local launcher ticket is an application entry check, not tamper-proof DRM.
+Only missing, changed or damaged files download. Large updates are split into resumable ranges; there is no fallback that downloads the whole game for an existing verified installation. A change to a Unity content file still requires downloading that changed file in full.
 
-Players using builds earlier than 1.5 must install this update-enabled release once. The files ending in `.part00`, `.part01`, etc. are parts of a single ZIP and are handled automatically by setup and the updater; they are not individual installers.
+The launcher shows download bytes, speed and estimated remaining time. **PAUSE / RESUME** retains partial downloads. Settings include game location, verification/repair and reduced motion. The default game folder is `%LOCALAPPDATA%\Programs\SA SHOOT`. A separate launcher copy and Start-menu shortcut are kept after installation or first play.
+
+New players need the complete current game, assembled automatically from verified content in this and earlier releases. Files named `.partNN` are download data, not individual installers. Keep an Internet connection and enough free disk space for downloads, installation and rollback; the launcher checks space before installing.
+
+The launcher checks updates before play and after leaving a match. Game 1.6 also checks while running; an active match is allowed to finish before returning to the launcher for an update. Launch the game through the launcher. The local launch ticket is an application entry check, not tamper-proof DRM.
+
+The executable is not code-signed, so Windows may display an unknown-publisher notice. No administrator access or changes to Windows security settings are required.
 
 ## Public test status
 
-Version 1.5 is an **early public test**, not a finished production release. It includes the login/lobby presentation updates, connection feedback, region selection, player identity/notifications, combat report and match history, and the download/update channel.
+Version 1.6 is an **early public test**. It adds the industrial Wraith lobby, animated 2.5D portraits, updated interface and sound cues, and file-based game updates.
 
-The launcher integration patch also includes bounded snapshot pipelining and a fresh connection-route attempt for each new match. A two-client, same-computer online round with disconnect/reconnect passed. Intermittent Photon connection/TLS timeouts remain under review. A complete match across independent Internet connections and a real 100-player concurrent load test have **not** been validated. GitHub hosts downloads; Photon and Unity services handle game connectivity.
+The real 1.5-to-1.6 local upgrade, all 284 runtime hashes, launcher handshake, resumable downloads, repair, interrupted-install recovery and launcher replacement/rollback were tested. Lobby routes, settings, Unity Play/Stop cycles and live region probes were also checked.
 
-This repository contains compiled downloads and channel metadata only. The Unity project, account credentials, diagnostic logs and development backups are not distributed here.
+Earlier two-client same-computer online round/reconnection tests passed. Intermittent Photon connection/TLS timeouts remain under review. A complete match across independent Internet connections and a real 100-player concurrent load test have **not** been validated. GitHub hosts downloads; Photon and Unity services handle gameplay connectivity.
+
+This repository contains compiled downloads and channel metadata only. The Unity project, source code, account credentials, diagnostic logs and development backups are not published here.
