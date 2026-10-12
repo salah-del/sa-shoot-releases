@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <img src="assets/versions.svg" alt="Current game: v1.6 · Launcher: v3.0 · Public test · Windows 64-bit" width="700">
+  <img src="assets/versions.svg" alt="Current game: v1.7 · Launcher: v3.0 · Public test · Windows 64-bit" width="700">
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
   <br>
   <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/v1.6/SA-SHOOT-Setup.exe">Download launcher</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.6">What's new in v1.6</a>
+  <a href="https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.7">What's new in v1.7</a>
   &nbsp; · &nbsp;
   <a href="#start-playing">Installation guide</a>
   &nbsp; · &nbsp;
   <a href="#العربية">العربية</a>
 </p>
 
-<p align="center"><strong>Game v1.6 · Launcher v3.0</strong><br>Windows 64-bit · Internet connection and a SA SHOOT account required.</p>
+<p align="center"><strong>Game v1.7 · Launcher v3.0</strong><br>Windows 64-bit · Internet connection and a SA SHOOT account required.</p>
 
 > **Already using Launcher 2.0?** Open the new launcher once and choose **LOCATE GAME**. Keep your installed game. Future launcher updates appear inside the launcher.
 
@@ -33,7 +33,7 @@
 | **2.** Select your folder and press **DOWNLOAD**. | **2.** Select the folder containing **SA SHOOT.exe** and **SA SHOOT_Data**. |
 | **3.** When installation finishes, press **PLAY**. | **3.** Press **UPDATE GAME**, then **PLAY** when it's ready. |
 
-**Updating from game 1.5?** The 1.6 update downloads about **827 MB**. Your unchanged game files stay in place. A new installation needs the complete game; the launcher shows the required download size.
+**Updating from game 1.6?** The 1.7 update downloads about **812 MB**. Your unchanged game files stay in place. A new installation needs the complete game; the launcher shows the required download size.
 
 ## Your next lobby
 
@@ -41,11 +41,13 @@
 
 <p align="center"><sub>Version 1.6 lobby preview · Example party shown.</sub></p>
 
-### What's new
+### What's new in 1.7
 
-- **A new lobby:** Wraith portraits, animated controls, particles and separate interface sounds.
-- **Smaller updates:** download only changed or damaged files, with pause and resume.
-- **A launcher that stays up to date:** choose **UPDATE LAUNCHER** when a new version is ready.
+- **A new gameplay HUD:** compact round timer, Wraith team portraits, health, shield, equipment and elimination feed.
+- **All 28 ability icons redesigned:** four owned skills shown together with live cooldown arcs.
+- **Detailed overhead minimaps:** actual map geometry and textures, with numbered contacts and recon overlays.
+- **Repeat jumping fixed:** jumping works again after landing.
+- **Keep your installation:** the launcher reuses 264 unchanged runtime files and downloads only the 20 changed files.
 
 ## Quick help
 
@@ -77,7 +79,7 @@ This public-test launcher is not code-signed yet, so Windows may show an unknown
 <details>
 <summary><strong>Public-test status and known issues</strong></summary>
 
-SA SHOOT 1.6 is an **early public test**. Some players may still encounter connection issues. See the [release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.6) for known limitations and update details.
+SA SHOOT 1.7 is an **early public test**. Some players may still encounter connection issues. See the [release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.7) for known limitations and update details.
 
 </details>
 
@@ -88,14 +90,14 @@ SA SHOOT 1.6 is an **early public test**. Some players may still encounter conne
 
 <div dir="rtl">
 
-الإصدار الحالي للعبة **1.6**، وإصدار اللانشر **3.0**.
+الإصدار الحالي للعبة **1.7**، وإصدار اللانشر **3.0**.
 
 1. نزّل اللانشر من زر **Download** الموجود فوق وافتحه.
 2. لو أول مرة تثبّت اللعبة، اختار المسار واضغط **DOWNLOAD**.
 3. لو اللعبة موجودة عندك، اضغط **LOCATE GAME** واختار الفولدر اللي فيه **SA SHOOT.exe** و**SA SHOOT_Data**، وبعدها **UPDATE GAME**.
 4. بعد اكتمال التنزيل وفحص الملفات، اضغط **PLAY**.
 
-التحديث من **1.5** إلى **1.6** حوالي **827 ميجابايت**؛ مش محتاج تنزّل اللعبة كاملة من جديد.
+التحديث من **1.6** إلى **1.7** حوالي **812 ميجابايت**؛ مش محتاج تنزّل اللعبة كاملة من جديد.
 
 لو عندك اللانشر القديم **2.0**، افتح الجديد مرة واحدة بس واختار لعبتك الموجودة. بعد كده تحديثات اللانشر نفسه هتظهر جواه. **ما تمسحش اللعبة**، ومش محتاج تنزّل ملفات الأجزاء بنفسك.
 
