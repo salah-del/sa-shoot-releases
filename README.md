@@ -8,8 +8,8 @@
 <p align="center"><strong>Become the unseen.</strong><br>Choose your squad. Master your abilities. Survive the closing zone.</p>
 
 <p align="center">
-  <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/v1.6/SA-SHOOT-Setup.exe"><img src="assets/download-windows.svg" alt="Download SA SHOOT Launcher 3.0 for Windows — 70.8 MB" width="430"></a><br>
-  <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/v1.6/SA-SHOOT-Setup.exe"><strong>Download for Windows</strong></a>
+  <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/launcher-v4.0/SA-SHOOT-Setup.exe"><img src="assets/download-windows.svg" alt="Download SA SHOOT Launcher 4.0 for Windows — 70.8 MB" width="430"></a><br>
+  <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/launcher-v4.0/SA-SHOOT-Setup.exe"><strong>Download for Windows</strong></a>
   &nbsp; · &nbsp; <a href="#inside-sa-shoot">Screenshots</a>
   &nbsp; · &nbsp; <a href="#start-playing">How to play</a>
   &nbsp; · &nbsp; <a href="#العربية">العربية</a>
@@ -49,9 +49,9 @@
 
 ### Download. Update. Play.
 
-![SA SHOOT Launcher 3.0 with verified installation, arena previews and the Play button.](assets/launcher.png)
+![SA SHOOT Launcher 4.0 with verified installation, arena previews and the Play button.](assets/launcher.png)
 
-<p align="center"><sub>Launcher 3.0 preview · Game 1.6 shown in this capture. New installations receive the current game version.</sub></p>
+<p align="center"><sub>Launcher 4.0 preview · Game 1.6 shown in this capture. New installations receive the current game version.</sub></p>
 
 Your launcher keeps the game ready. Download once, keep your installation, and get updates without reinstalling everything.
 
@@ -81,7 +81,7 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 - **Interrupted download?** Use **RESUME** or **RETRY**. Completed, verified downloads are reused.
 - **Missing or damaged files?** Open **SETTINGS → VERIFY / REPAIR GAME FILES**.
-- **Using Launcher 2.0?** Open Launcher 3.0 once and choose **LOCATE GAME**. Keep your game folder. Future launcher updates appear inside the launcher.
+- **Using Launcher 2.0?** Open Launcher 4.0 once and choose **LOCATE GAME**. Keep your game folder. Future launcher updates appear inside the launcher.
 - **Windows shows an unfamiliar publisher?** This public-test launcher is not code-signed yet. Use the download button on this page; no security-setting changes are required.
 - **Do I need other files?** No. Download the launcher using the button above; it handles game installation and updates.
 
@@ -106,7 +106,7 @@ SA SHOOT is an early public test. Some players may encounter connection issues. 
 
 اختار **1 ضد 1، أو 2 ضد 2، أو 3 ضد 3**. جهّز مهاراتك، العب مع أصحابك، وخلّي بالك من الزون وهي بتقفل.
 
-**الإصدار الحالي: 1.7.3 — اللانشر: 3.0.**
+**الإصدار الحالي: 1.7.3 — اللانشر: 4.0.**
 
 1. نزّل اللانشر من زر **Download for Windows** فوق.
 2. لو أول مرة، اختار فولدر واضغط **DOWNLOAD**.
@@ -123,5 +123,5 @@ SA SHOOT is an early public test. Some players may encounter connection issues. 
   <img src="assets/game-icon.png" alt="SA SHOOT emblem" width="48"><br>
   <strong>SA / SHOOT</strong><br>
   <sub>Your squad. Your round.</sub><br><br>
-  <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/v1.6/SA-SHOOT-Setup.exe"><strong>↓ DOWNLOAD FOR WINDOWS</strong></a>
+  <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/launcher-v4.0/SA-SHOOT-Setup.exe"><strong>↓ DOWNLOAD FOR WINDOWS</strong></a>
 </p>
