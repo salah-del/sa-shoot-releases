@@ -3,7 +3,7 @@
   <img src="assets/banner.gif" alt="SA SHOOT — Your squad. Your round." width="1200">
 </picture>
 
-<p align="center"><img src="assets/versions.svg" alt="Game v1.7.2 · Launcher v3.0 · Public test · Windows 64-bit" width="700"></p>
+<p align="center"><img src="assets/versions.svg" alt="Game v1.7.3 · Launcher v3.0 · Public test · Windows 64-bit" width="700"></p>
 
 <p align="center"><strong>Become the unseen.</strong><br>Choose your squad. Master your abilities. Survive the closing zone.</p>
 
@@ -32,7 +32,7 @@
 
 <p align="center"><sub>In-game lobby preview · Example party shown.</sub></p>
 
-### Two arenas. Different decisions.
+### Four arenas. More ways to train.
 
 <table>
   <tr>
@@ -45,7 +45,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>Actual captures from local 3v3 training in version 1.7.1.</sub></p>
+<p align="center"><sub>Rusthaven and Sunport shown above. Railway and Victorian join the arena pool in 1.7.3. Captures show version 1.7.1.</sub></p>
 
 ### Download. Update. Play.
 
@@ -63,13 +63,18 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 | **2.** Choose a folder and press **DOWNLOAD**. | **2.** Select the folder with **SA SHOOT.exe** and **SA SHOOT_Data**. |
 | **3.** When ready, press **PLAY** and sign in. | **3.** Press **UPDATE GAME**, then **PLAY**. |
 
-**Game 1.7.2 is live.** Updating from 1.7.1 takes about **545 MB**. The launcher keeps unchanged files and checks everything before **PLAY** becomes available.
+**Game 1.7.3 is live.** Updating from 1.7.2 takes about **1,709 MB**, including the new arenas. The launcher keeps unchanged files and checks everything before **PLAY** becomes available.
 
-### New in 1.7.2
+### New in 1.7.3
 
-| 🎵 In the lobby | 🎯 In combat | ✦ With your squad |
+| 🎯 Practice your way | 🛡️ Prepare for the fight | ◈ Clearer combat |
 | :--- | :--- | :--- |
-| **Nightfall** soundtrack with smooth fades and quieter music under notifications. | **Wraith Crack** sound for your confirmed headshots, including shield hits. | Stronger floating and cloth motion, with independent movement for each party portrait. |
+| **Custom Training:** choose your map, bots and difficulty. Use the in-world console, pause the timer or leave the market open. | **Five armor options:** a separate market section with remaining armor carried between surviving rounds. | **Smoother grenade and Molotov effects**, full-body Overguard, smooth skill cooldowns and an optional **FPS counter**. |
+
+- Explore **Railway** and **Victorian**, alongside Rusthaven and Sunport.
+- Inspect exact Wraith hit zones and weapon-specific bullet trails with adjustable visibility time.
+- Enable **Settings → Graphics → Show FPS** from the lobby or during a match.
+- Your launcher reuses unchanged files. Larger updates include new map content; no full reinstall is needed.
 
 <details>
 <summary><strong>Help with installation and updates</strong></summary>
@@ -85,7 +90,7 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 <details>
 <summary><strong>Public-test status and music credits</strong></summary>
 
-SA SHOOT is an early public test. Some players may encounter connection issues. [Read the 1.7.2 release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.7.2).
+SA SHOOT is an early public test. Some players may encounter connection issues. [Read the 1.7.3 release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.7.3).
 
 'Nightfall' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
 
@@ -101,14 +106,14 @@ SA SHOOT is an early public test. Some players may encounter connection issues. 
 
 اختار **1 ضد 1، أو 2 ضد 2، أو 3 ضد 3**. جهّز مهاراتك، العب مع أصحابك، وخلّي بالك من الزون وهي بتقفل.
 
-**الإصدار الحالي: 1.7.2 — اللانشر: 3.0.**
+**الإصدار الحالي: 1.7.3 — اللانشر: 3.0.**
 
 1. نزّل اللانشر من زر **Download for Windows** فوق.
 2. لو أول مرة، اختار فولدر واضغط **DOWNLOAD**.
 3. لو اللعبة عندك، اختار **LOCATE GAME** وحدد الفولدر اللي فيه ملف اللعبة وملفاتها.
 4. حدّث لو مطلوب، وبعد فحص الملفات اضغط **PLAY** وسجّل دخولك.
 
-التحديث من **1.7.1** حوالي **545 ميجابايت**؛ مش محتاج تنزّل اللعبة كاملة. لو التنزيل وقف، تقدر تكمّله من اللانشر.
+التحديث من **1.7.2** حوالي **1,709 ميجابايت**، ويشمل المابات الجديدة؛ مش محتاج تنزّل اللعبة كاملة. لو التنزيل وقف، تقدر تكمّله من اللانشر.
 
 </div>
 
