@@ -8,7 +8,7 @@
 
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/salah-del/sa-shoot-releases/main/assets/versions.svg" alt="Game v1.7.6 · Launcher v4.0 · Public test · Windows 64-bit" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/salah-del/sa-shoot-releases/main/assets/versions.svg" alt="Game v1.7.7 · Launcher v4.0 · Public test · Windows 64-bit" width="700"></p>
 
 
 
@@ -128,18 +128,19 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-**Game 1.7.6 is live.** Updating from 1.7.3 takes about **939 MB**. The launcher keeps unchanged files and verifies the update before **PLAY** becomes available.
+**Game 1.7.7 is live.** Updating from 1.7.6 takes about **593 MB**. The launcher keeps unchanged files and verifies the update before **PLAY** becomes available.
 
 
 
-### New in 1.7.6
+### New in 1.7.7
 
-- Update recovery: the launcher and Unity game now agree on the installed version, fixing the repeated update screen.
-- Current account wallet, Market, Weapon Gallery and Phantom Eclipse artwork/audio included.
-- Grenade/Molotov guidance and the bot fire-escape performance fix retained.
-- Existing 1.7.5 installations download about **939 MB of changed files**; your account and settings stay in place.
+- Lobby Market and Gallery are temporarily locked, with padlock icons.
+- SA is zero while the store is closed. Your XP, level, account and settings are preserved.
+- Sprint, reload and shoot with every firearm; AKM reload pose conflicts fixed.
+- Accuracy and recoil now respond to actual movement speed, with distinct weapon profiles.
+- Existing 1.7.6 installations download about **593 MB of changed files**. Round weapon and skill purchases remain available.
 
-[Read the release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.7.6)
+[Read the release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.7.7)
 
 
 ## العربية
@@ -158,7 +159,7 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-**الإصدار الحالي: 1.7.6 — اللانشر: 4.0.**
+**الإصدار الحالي: 1.7.7 — اللانشر: 4.0.**
 
 
 
@@ -172,7 +173,7 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-التحديث من **1.7.3** حوالي **939 ميجابايت**، ويحسّن مسار تصويب القنابل وتأثيرات المولوتوف؛ مش محتاج تنزّل اللعبة كاملة. لو التنزيل وقف، تقدر تكمّله من اللانشر.
+التحديث من **1.7.6** حوالي **593 ميجابايت**: قفل الماركت والجاليري مؤقتًا، تصفير SA مع حفظ XP، وإصلاح الريلود والضرب أثناء الجري. مش محتاج تنزّل اللعبة كاملة. لو التنزيل وقف، تقدر تكمّله من اللانشر.
 
 
 
