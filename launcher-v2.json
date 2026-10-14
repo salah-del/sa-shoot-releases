@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": "1.7.3",
-  "revision": 7,
+  "version": "1.7.4",
+  "revision": 8,
   "minimumLauncherVersion": "3.0.0",
   "files": [
     {
@@ -419,66 +419,66 @@
     {
       "path": "SA SHOOT_Data/boot.config",
       "bytes": 114,
-      "sha256": "6815596b34c13f15aa4b0bd4e0ef43efd873182329bee0857b6a38e860b1f1c1",
+      "sha256": "3f88305762cf74223c9a19b5db3d8d72c2388612474f05fb73f4610d17087889",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part00",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
           "offset": 55,
           "bytes": 99,
           "sourceBytes": 134217728,
-          "sha256": "c1f6168b89d894e41232723801e918241e3b44d1aafa640bb45d1338cdb6a147"
+          "sha256": "94016fc8bff6a4f234a5e8073de63a1f837021b1f5361173e2b14e725ff983ed"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/globalgamemanagers",
-      "bytes": 729060,
-      "sha256": "ae6a222198dc9a32217506134bb7011f3c84fd9c3d724854d0287978853412d4",
+      "bytes": 730212,
+      "sha256": "4b38a82ba6f6c54d8074d22bf94f27d3b3192f389a39412c2ed9f0d2566ea8ae",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part00",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
           "offset": 216,
-          "bytes": 253927,
+          "bytes": 254343,
           "sourceBytes": 134217728,
-          "sha256": "441a8c6854f4f6570feb11aa3ceed9d50ceecc8c30b1d9148965ac8ca87a343e"
+          "sha256": "aac0b7cc12cd69cced88066b54319888c80b82b238e8b457bcd5d17d06f383c6"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/globalgamemanagers.assets",
-      "bytes": 190283324,
-      "sha256": "fc3a997cb6d5d2cc2bb5ea9f0a12e20ab11299282fe01a9540c82a5b9de56791",
+      "bytes": 190284204,
+      "sha256": "03f17330e8f7d50ea438d8a4585c99b2d75c8344cb1b7143acb9cd15476ddbae",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part00",
-          "offset": 254212,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 254628,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "655690bdf6f3c690788fc5bf210ed55449c366f97060bed3779d5d31f6b2d3e0"
+          "sha256": "e0fc7ed7cc9ea38db58baaca1e047ab2a3d04435008b69775220feeb512498c3"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part00",
-          "offset": 17031428,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 17031844,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "2134d963e6c2af15f1d73df2664970086c50b894ea98f3e8bc4abfa45e68f525"
+          "sha256": "7f78bf1f0ac70b4d6f0d308551d9e1d54d5130f5a7c0eb36397b64a81ff0945a"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part00",
-          "offset": 33808644,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 33809060,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "72520905fe6b194d7b2533c06ffce9519bcbd6845ea41f790bcacc73a008a5de"
+          "sha256": "8120288f210e25e86bc1b7f73ea5eb071de1a3e33c5b57df4c63c3b508bc3390"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part00",
-          "offset": 50585860,
-          "bytes": 10214174,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 50586276,
+          "bytes": 10215652,
           "sourceBytes": 134217728,
-          "sha256": "bce0114710838f4126235e61b03d45f62f84cbc6bbcd64e4f6e50b2614488942"
+          "sha256": "8fdad84f69d632e9d022034c556122bf2ca66d99087ee997275e0d861bac3517"
         }
       ]
     },
@@ -991,45 +991,45 @@
     {
       "path": "SA SHOOT_Data/level0",
       "bytes": 2036,
-      "sha256": "cf783d1da11df7261caec0fad2b1ae84c27eaf6f05460573bae7b64cf4e26ebd",
+      "sha256": "b6e0e49c04d9995f526af742b9f9ab4a4f9bce56d1e5f460a0d20932eddc9b5b",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part00",
-          "offset": 60800084,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 60801978,
           "bytes": 964,
           "sourceBytes": 134217728,
-          "sha256": "aff73dc088de17d3b05a70e276a00439fb88515abb9942f48406fa0d4e0e6e53"
+          "sha256": "1e67fd3a85aea267c0292b3e46dd3570dd33e149b01cd9556718da252c4e8b44"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/level1",
       "bytes": 7650840,
-      "sha256": "02ab21ca1ac06e5f515e392f3316f49f9b887acfffc986fffc3d50293f8b4f17",
+      "sha256": "0f0b481aee603af674de105db7f7767f4d916e1fd0f2037ca062e0e99578d06d",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part00",
-          "offset": 60801098,
-          "bytes": 930898,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 60802992,
+          "bytes": 930894,
           "sourceBytes": 134217728,
-          "sha256": "2a8805b24455cfc2d7f6495cb7dce51305a1aac0b151b89551ffab8a2f8af547"
+          "sha256": "d7b8fc110d07a61c5dd053f251a3e4ccd18b895159e72b30ce3e52875fbbfdab"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/level10",
       "bytes": 16879496,
-      "sha256": "8437dd0d05e4da509a4ed49cf877d40c772cc346f5535094ea081dc9915f0a9d",
+      "sha256": "9a03ba4d025860ea1682e5cd9284f878c50d5f0cc3426cdb2a9de03e8d7ff165",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part00",
-          "offset": 61732047,
-          "bytes": 7408426,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 61733937,
+          "bytes": 7408428,
           "sourceBytes": 134217728,
-          "sha256": "ac8a5c7ba9fd1d15d16d4c1f1b76a4d4b4d5d5a7f4ede6d6411412dd67d52f3f"
+          "sha256": "b68af9627629d17bbcad94def943e6b16d251e16ef1a4936ca7556b5ea9d98ac"
         }
       ]
     },
@@ -1058,15 +1058,15 @@
     {
       "path": "SA SHOOT_Data/level11",
       "bytes": 16879496,
-      "sha256": "d35b49866f574f940ff7bf313e3cb0a90ccfa343717a18ba872bae5345a39b08",
+      "sha256": "ab56e28d88200820435b7f44ecbba7c8ade5b69b2fdb52503150b1c0dc7ebe26",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part00",
-          "offset": 97655515,
-          "bytes": 7417523,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 69142416,
+          "bytes": 7417527,
           "sourceBytes": 134217728,
-          "sha256": "5c88a94666a03272f3e80c1cc12fa3804517eafacab0e75c7757462185e8f9da"
+          "sha256": "6d7527bdc6c1bef0fa1b7055b8daf39cc9d9bb9ee98ef89512782f7a51d7ea1c"
         }
       ]
     },
@@ -1095,22 +1095,15 @@
     {
       "path": "SA SHOOT_Data/level12",
       "bytes": 16879480,
-      "sha256": "09e81b8bc1dec057fc3b551a4869760c16580d1b3b011c674c50e21d04222bff",
+      "sha256": "ee6513426755c59bcec6ab0ed2393db44b77b5f01bd0ea60f930e7a790362f2c",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part00",
-          "offset": 133603444,
-          "bytes": 614284,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 76559994,
+          "bytes": 7409380,
           "sourceBytes": 134217728,
-          "sha256": "e32ad990c3df287a2b1b95bccdedfbcda1a5c47431d0452597c59e49de9b5aeb"
-        },
-        {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part01",
-          "offset": 0,
-          "bytes": 6795098,
-          "sourceBytes": 134217728,
-          "sha256": "cf9b661edd09519dc2b0b94e3f0f6b2b92dfcf4d8f73f774fc515f79d9100ec0"
+          "sha256": "8005ba0cba977e7e0be52cd6bd4776f1362bbf8f7975f8a21f21038f4b35df18"
         }
       ]
     },
@@ -1139,52 +1132,52 @@
     {
       "path": "SA SHOOT_Data/level2",
       "bytes": 7651080,
-      "sha256": "8f9d51cab1c0983dcd22230a31586bf1dee705e582295995bc7301110b90823d",
+      "sha256": "0ff23325b9923adf8895b47dde7d5e630856ee799135f0ced8c55d3371fa2b67",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part01",
-          "offset": 35310784,
-          "bytes": 931511,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 83969424,
+          "bytes": 931510,
           "sourceBytes": 134217728,
-          "sha256": "b4711e491c07dda21385e49adda64e830d6556f66bebef6dcf0812e2823e7c9f"
+          "sha256": "f289f57c981142eb969a4bac65754aa98cfa3532d2b10c6a0982c5609f5575e9"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/level3",
       "bytes": 7651848,
-      "sha256": "5cb900d33cba77f3b7ae4051b228a56133a9200683393a75a4499b905e232897",
+      "sha256": "7c0a341000cc9909965288413be586b9e43e70013b9daf78f6c0a714a1fe065f",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part01",
-          "offset": 36242345,
-          "bytes": 931743,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 84900984,
+          "bytes": 931739,
           "sourceBytes": 134217728,
-          "sha256": "54a24eb9e8a9e9e49ebe010b21c843a92f80e7e06e232b03caea950570b646b5"
+          "sha256": "2366c9fbcbdfc9a440a0c511180b265e151edeef504a109acc5a133b276e2592"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/level4",
       "bytes": 33518232,
-      "sha256": "8830ce02a3b44aa600d4ca10a17b495e913e6090c72d1e9ff8285dafe935e141",
+      "sha256": "6e2e714204ef0249d7cfc8b59a2428439cb1e905d9da4c9375e6bf9597e4ccdf",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part01",
-          "offset": 37174138,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 85832773,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "631ce4c7a5e9cfc789acf7f103b7581c62e4955599c98c27a7194d381f5c1094"
+          "sha256": "f1d1778bf11411ed7f108acf5fe863bcf8af65e8cc5544c07b9f11ac8a3e79c7"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part01",
-          "offset": 53951354,
-          "bytes": 8467085,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 102609989,
+          "bytes": 8467062,
           "sourceBytes": 134217728,
-          "sha256": "868a57f389f4691d5bc1367a3b585c61bd53a4f16cdf4e59490524a3875a5b78"
+          "sha256": "186451da24a21d26476b0a0794e8c930279747f7115c1ad591ba1ce78c20b1a1"
         }
       ]
     },
@@ -1269,22 +1262,29 @@
     {
       "path": "SA SHOOT_Data/level5",
       "bytes": 33445272,
-      "sha256": "ef19ca8f828dbfa841f3b468b3de50e5184f4aabc2b2301b7d202c35e73368e2",
+      "sha256": "79c40a284462df3e0b2c6a65761d2ab92f610ab3ea9bc40799eb0cf20303013a",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part01",
-          "offset": 62418489,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 111077101,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "4f56482e12e98ed14ec2827f785e7e68581318eafad991d5c3eae0bd0da60635"
+          "sha256": "e7635de96af7ecbde84db21679cec6c0461266b018461d215fc4f14d09db1572"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part01",
-          "offset": 79195705,
-          "bytes": 8402308,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part00",
+          "offset": 127854317,
+          "bytes": 6363411,
           "sourceBytes": 134217728,
-          "sha256": "6defb2d9210ff7ea9c34520827d185afd181ee2edefcc536e00e53f9238db265"
+          "sha256": "f43d93da3888f208406e8320a4d006ab91cc38768fd3b2ada4a4e14483454017"
+        },
+        {
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part01",
+          "offset": 0,
+          "bytes": 2038909,
+          "sourceBytes": 134217728,
+          "sha256": "1da02485989aa719f69b0cb9176c1aa693c25822e7964da10041f1a63ee7d60e"
         }
       ]
     },
@@ -1369,22 +1369,22 @@
     {
       "path": "SA SHOOT_Data/level6",
       "bytes": 33445272,
-      "sha256": "e3c994639ce419250a82dd53366b72d968b8502a58b133b3008d7df0c4cc27a7",
+      "sha256": "2d411346c398c01b214d898d4419e8b1fb1b850850f298f1fe6b429ab28a12d1",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part01",
-          "offset": 87598063,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part01",
+          "offset": 2038959,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "f80724fd8949c2926ec41dfbd487bb85d31630ad523dbe0793b36e1bd9178a28"
+          "sha256": "8e7392c5428bb6cbfee7c3eb7e908f208007327853f655e3b49abd4a849b69d2"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part01",
-          "offset": 104375279,
-          "bytes": 8401913,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part01",
+          "offset": 18816175,
+          "bytes": 8401912,
           "sourceBytes": 134217728,
-          "sha256": "35dcfedfcd5008e70aca67ba8adf3246e20b4a35247f291986b62344fe92b205"
+          "sha256": "09e97f2876a0d4f1e177b37d7b7d6ae510624d56cd6a680322649167558e585f"
         }
       ]
     },
@@ -1469,15 +1469,15 @@
     {
       "path": "SA SHOOT_Data/level7",
       "bytes": 19681448,
-      "sha256": "0c1655470e3b8ef2019c1b5f957fc2340749a2b9e14b9915acfa4bf5d100eed5",
+      "sha256": "f00075db7b95719c01cf512c984839ec86a17ad637ebb3ef7cfb29ebe67020fc",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part01",
-          "offset": 112777242,
-          "bytes": 12608653,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part01",
+          "offset": 27218137,
+          "bytes": 12608656,
           "sourceBytes": 134217728,
-          "sha256": "2c89606af88e011b0a2b2270c7fdb2e5e3d8c9533376ca22401966b1dbe07080"
+          "sha256": "7f06ad295a90136d896b87d39f27e8245ec85010f1e7879c776796958f93dcce"
         }
       ]
     },
@@ -1513,15 +1513,15 @@
     {
       "path": "SA SHOOT_Data/level8",
       "bytes": 19681048,
-      "sha256": "f02d29bc3bf60a0521bb7f9952d946599a6b4898bb25a18d32a8f8ce1ebf6f91",
+      "sha256": "35bbb52ff0baff14c29f236283fd1cfc61f386cf8f1b0badb932f91fa0fd30a0",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part02",
-          "offset": 33406027,
-          "bytes": 12608192,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part01",
+          "offset": 39826843,
+          "bytes": 12608197,
           "sourceBytes": 134217728,
-          "sha256": "eb60413d0e2f941acd8c01a4d30d6aa6733065b7d7c0c4bf2f99f0014b7f07e8"
+          "sha256": "c029882fc2e46d8654e529313813c56b6d2421b6b232201dd38d3c6f4b1dd2a1"
         }
       ]
     },
@@ -1557,15 +1557,15 @@
     {
       "path": "SA SHOOT_Data/level9",
       "bytes": 19681896,
-      "sha256": "29947de9f1d52d0e52a1826b91a111b5d7d2a18a64d796e76854933804776d2b",
+      "sha256": "e9856b00ed262ff1696f1f1ad3ca7732e9615887b2ee7f472ae62e3f6432ce1e",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part02",
-          "offset": 88278819,
-          "bytes": 12603179,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part01",
+          "offset": 52435090,
+          "bytes": 12603175,
           "sourceBytes": 134217728,
-          "sha256": "1aaa2720501b1539c1bd9fa8e0b3cd54c8825cb24710be78f53474dc77015686"
+          "sha256": "91198aacce7e114772f26689f2f973b62497602c7c48daf9ee5a51ebd77c2a24"
         }
       ]
     },
@@ -1690,16 +1690,16 @@
     },
     {
       "path": "SA SHOOT_Data/Managed/Assembly-CSharp.dll",
-      "bytes": 2382336,
-      "sha256": "bd25d77b0c881d78ff4c7a488c9172c6b7bb8d14e3b1c5522d0b4efa0f2d816b",
+      "bytes": 2403328,
+      "sha256": "21de9d60a9da6daaa3dd880634cbef5eedd5c14fa9f363f89a19c476cc6eb9c1",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part03",
-          "offset": 8922143,
-          "bytes": 884048,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part01",
+          "offset": 65038336,
+          "bytes": 893298,
           "sourceBytes": 134217728,
-          "sha256": "4a17af75c709f20658009c8b74f7170f3e106484027743024cfca10550e2acf3"
+          "sha256": "3d3429615e57ce5df890a299b01eaae13a16c074e13a419e4d777cc17c104ca8"
         }
       ]
     },
@@ -4871,15 +4871,15 @@
     {
       "path": "SA SHOOT_Data/Plugins/x86_64/lib_burst_generated.dll",
       "bytes": 2045440,
-      "sha256": "0615b6aad53b8f40be2d9340df1343f4787e8c86fe435ec9e92c8daaa80c9803",
+      "sha256": "c4b607937a127e6dab18e8b84761c8d004b43d80f5aef8de28d4150e18886482",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part03",
-          "offset": 9806273,
-          "bytes": 817923,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part01",
+          "offset": 65931716,
+          "bytes": 817922,
           "sourceBytes": 134217728,
-          "sha256": "f9ecbdae4950b67421f2b3664339231109578e77381286f8326a3179707115c9"
+          "sha256": "d01636f837ef83211254a80974183e9dc0beaf8741fec59426721aed037eeb19"
         }
       ]
     },
@@ -4945,164 +4945,164 @@
     },
     {
       "path": "SA SHOOT_Data/resources.assets",
-      "bytes": 65562936,
-      "sha256": "99a7e69d1defd1736e4a2634e1d8088855dc5e063c815de887aff3aac7ad28cc",
+      "bytes": 65616600,
+      "sha256": "c682b6b5ca17866528691de9d14c79e9f6a544101227cf3569c3f1e1f656b89e",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part03",
-          "offset": 10624256,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part01",
+          "offset": 66749698,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "86732170e9e7b4c9fb9fd3d79911969ea51b7c3f9fc0b32e8a38d6d51d85d04d"
+          "sha256": "c8730d528b8ddb2d70bbfc7ffde64256987e5b648440a2f0bd649df100844405"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part03",
-          "offset": 27401472,
-          "bytes": 11282774,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part01",
+          "offset": 83526914,
+          "bytes": 11288333,
           "sourceBytes": 134217728,
-          "sha256": "9e728879b225ab658b178cbf09bf8476220d3401b3e7a3905150ee6d28198983"
+          "sha256": "6ec7106ca783dfbf71860bc20aefa0c756f9a61351fbc24340de1f1ca5d54a5f"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/resources.assets.resS",
-      "bytes": 1001224272,
-      "sha256": "4a759c1ed5f7183b7192ba762227cd6d2a70fffab1ce43119965ac28b18d6eef",
+      "bytes": 1002447664,
+      "sha256": "ce47bed66752ebac5dcd13c93d1968966f24aa0c97d7f1f0d7c8434191849429",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part03",
-          "offset": 38684311,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part01",
+          "offset": 94815312,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "b0a377a1ccc5d5313c675d4ff55268e3f776d07a14952e72af582bc1e61527a1"
+          "sha256": "b36a5da2591ee1e8003d380f90418b60d9bde3592c915591053033a1ebcbbec3"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part03",
-          "offset": 55461527,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part01",
+          "offset": 111592528,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "d2ceecd2a0d33208636ba13357f36072e67a198657e481ad332a53a08e6d290c"
+          "sha256": "4702998b13ee21fded07a6c20c3b1267953270c8bb0e46e8f99184ca9cc78c8d"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part03",
-          "offset": 72238743,
-          "bytes": 16777216,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part01",
+          "offset": 128369744,
+          "bytes": 5847984,
           "sourceBytes": 134217728,
-          "sha256": "e8c53b077a6a30fc1f5939654296be631bd900b4e5fb94b38be070e6d33b1652"
+          "sha256": "4a07c3670328878b9afce022c13a497ee5f115488a5788989e3488f05f841d2e"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part03",
-          "offset": 89015959,
-          "bytes": 16777216,
-          "sourceBytes": 134217728,
-          "sha256": "c374041a17f9cee0784cc5f42bf02649dbce1c3442f095f4dbf5ef8c8a132abd"
-        },
-        {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part03",
-          "offset": 105793175,
-          "bytes": 16777216,
-          "sourceBytes": 134217728,
-          "sha256": "87929fe544386f151c82b478b3ae9fc32a6af946acdeec62a68ee854d9a63573"
-        },
-        {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part03",
-          "offset": 122570391,
-          "bytes": 11647337,
-          "sourceBytes": 134217728,
-          "sha256": "d2186de8b1fa70a8c4fb833a0a955228c59cca0242770bafef6d9756ddf61db5"
-        },
-        {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part04",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part02",
           "offset": 0,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "3647e5266a5115744b305ba2a11145fa34b884e9f77d77f8ef78bec9d830de36"
+          "sha256": "b16277f8b98df2d8c9229de7690c45c8cb26c4e76b502fbfba9b7dbe8a218902"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part04",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part02",
           "offset": 16777216,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "8f7f3dcfe5fa17e474af4cd9ccb347689c29680070b908b8b721958534345dd8"
+          "sha256": "1932ebfcbe88262f43a61102a46d87fd09bee389643b70e6b557e703ec45dd12"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part04",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part02",
           "offset": 33554432,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "02a8ac70c4d9a8d0298d9aba8ba903bdc7a9744dfabae9e5e153e39475d2aff2"
+          "sha256": "e196921a63eaabaab132124ca289707834427a44e2155873a3b79bfb934369d8"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part04",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part02",
           "offset": 50331648,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "31b823d9b1b0d85bdb9710b4f0b467f77117f6561830934830a9fa7afaea8424"
+          "sha256": "bc61e690bdec2af8a4e3d6312dfcc1c51b0494c67ed876ae46460204dcbae8c0"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part04",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part02",
           "offset": 67108864,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "9f34020f3c88365cd9e946a637873d7fbad3e5bac57608f27589d6598d1c6c86"
+          "sha256": "322ffd72f370aa6ad92837a4c5edc3b6846fb50c491072468960c7dc28173bef"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part04",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part02",
           "offset": 83886080,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "96d2660d8207a763e2d338a64a4be06b9a1b5c275c70b03cfff6cc537cebd7d7"
+          "sha256": "09db6d2684a35781a3d00b4451a24c9c22d8b483d30388433a77abce049c4455"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part04",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part02",
           "offset": 100663296,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "397f5ae921343c5a9542fba725b88e43c44a95c2c9a85963fa5daf93b014c89a"
+          "sha256": "12e5d440040c81a8b7a77a472852212e275fad8546f0712be13326cc658864ab"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part04",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part02",
           "offset": 117440512,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "d8ed0299790238742c083052ca0dc4d2a786aaa646f3e45408757e501641d88e"
+          "sha256": "d5a003b3c17350eec7fea53ab68a57e72520cfeaa84b0e24a7012da478f0f77f"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part05",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part03",
           "offset": 0,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "4f8271016ac76cb0fbd931b7122c8b1be32fc5320e8d54c2bab58c975c5b41bb"
+          "sha256": "7f7d13b3d2254fb16eb390bdf1963d397bae29da5679189ae97ef11eb6d85cd0"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part05",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part03",
           "offset": 16777216,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "7d4f625050c12802c2960d111270fcbc144eec54e25b82b90cab94369e370eac"
+          "sha256": "7cb33524069952a0bf4add901f28767becfb70e40ce5148c564cb358de868c76"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part05",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part03",
           "offset": 33554432,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "301c99b4f73bda7dc633fca7607dc52e02c7b7bbfacc8f2bfee80c78e84124ef"
+          "sha256": "a7117f2571067c531da786e0ead16f5ee7f1f342e586adde41d721082d2a7b81"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part05",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part03",
           "offset": 50331648,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "24afcb736003ede298cf59b2dbcef17830cf38d7aba30a434a56418ce177b5cb"
+          "sha256": "aedd22cc655061f2211d51939c318aeb74c4cb3558a8055178ac53639fbb9fe4"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part05",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part03",
           "offset": 67108864,
-          "bytes": 10412500,
+          "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "0ee53164c2f643653216c99f178a45bf42bd1a56f28bce321fd9a1d1728d5f8e"
+          "sha256": "ed7cab80c25fd49d8f2166584f73c3ffed478364f3b10f62beef797d33c160c0"
+        },
+        {
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part03",
+          "offset": 83886080,
+          "bytes": 16777216,
+          "sourceBytes": 134217728,
+          "sha256": "66342c9b4a3c409fef2a37a0623e20511f3b2961cfd974435b84cae50841da45"
+        },
+        {
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part03",
+          "offset": 100663296,
+          "bytes": 16777216,
+          "sourceBytes": 134217728,
+          "sha256": "e238a4de3b2b60ef979102e7faf42b694e65355a025ae9c29c569662dc6e7d46"
+        },
+        {
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part03",
+          "offset": 117440512,
+          "bytes": 16549613,
+          "sourceBytes": 134217728,
+          "sha256": "282f09f513a9d776575df234b249cdca8eafe7a6a2b6f650627acddbde04bb65"
         }
       ]
     },
@@ -5153,30 +5153,37 @@
     {
       "path": "SA SHOOT_Data/ScriptingAssemblies.json",
       "bytes": 7043,
-      "sha256": "969f6019c48d65bb81ca3d8a58a45a2fde7ec522bef232c85980e37df00ffb2c",
+      "sha256": "5bfc57b65ca46a38b826062babdec44e3bd7b8a78ad88c4793631fa60815fcfc",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.5/SA-SHOOT-1.5.part01",
-          "offset": 190068565,
-          "bytes": 1531,
-          "sourceBytes": 1519530860,
-          "sha256": "9aa51197ff2a4092da9d2225855b0b30736dc800dc3bdfdad7277351aeba0d85"
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part03",
+          "offset": 133990193,
+          "bytes": 1534,
+          "sourceBytes": 134217728,
+          "sha256": "51fc6cdc07ffb6368214248c150457c1a7ff6a6f1c8e2bcc882213417dc8a757"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/sharedassets0.assets",
       "bytes": 9326164,
-      "sha256": "f5079338cb71614ef3770817665b4fa1424c760a52ca0e41e787058f93b21b43",
+      "sha256": "d6d174cc045c6bca7f9a36a10ea5aecb8a7dc3289a7f9dc41c75a2c5c500823f",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part05",
-          "offset": 77524311,
-          "bytes": 4517598,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part03",
+          "offset": 133991791,
+          "bytes": 225937,
           "sourceBytes": 134217728,
-          "sha256": "2ef586b42a2798cfb3b418d4ef67aa5da4c916489f788d22641f8c3e50fda4f2"
+          "sha256": "c22aa2daf2fc5262c7f6d80106d411d390df15e5cb69ab893da81dc73082378b"
+        },
+        {
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part04",
+          "offset": 0,
+          "bytes": 4291657,
+          "sourceBytes": 134217728,
+          "sha256": "611eb4e0121aa0f4c7fa4d657744bf753db33f3c65613b167565d62dcd16ac30"
         }
       ]
     },
@@ -5213,134 +5220,127 @@
     {
       "path": "SA SHOOT_Data/sharedassets1.assets",
       "bytes": 698111312,
-      "sha256": "0ff774485cb76c923d8c83810895e4cd9007841f873c38a6b14aa57ca31194ed",
+      "sha256": "dab01898e632768d61a5e0df15368251f28c2314940e666d1ef1acf08a9ff15e",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part05",
-          "offset": 82041973,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part04",
+          "offset": 4291721,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "444cf037c0aefba9c85ff8c925a92655031198e1414d03a605deaa4150bd5953"
+          "sha256": "9ba1b3c9e04249a17897e1525721c34ece0af69b54b957ffaa7bd69518725c37"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part05",
-          "offset": 98819189,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part04",
+          "offset": 21068937,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "18fc34d8ba516dd802301b3b78ee3941112fc8144111e6ba8afe45d7835d853c"
+          "sha256": "a38aed87985998c371301a962f83548c85de956ce8cded069d1807bb7604c285"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part05",
-          "offset": 115596405,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part04",
+          "offset": 37846153,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "9ca64ae9933590d25a5f10d40624bdd0d8e36c3a61d5534165767a1c4b5089e9"
+          "sha256": "96592971458124d8380543e0c50de4a03ecfdfa807d4317aff439f6d74b2f355"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part05",
-          "offset": 132373621,
-          "bytes": 1844107,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part04",
+          "offset": 54623369,
+          "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "e19581c637bfb8d4a1fc5db4770e98707f27017ffd72e477ef3cf39ead4d74c3"
+          "sha256": "269d9c4fb75d0d6e3b8f8d6108b552d1bcdfe3d74d2b22c56808b33100c3f9e9"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part06",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part04",
+          "offset": 71400585,
+          "bytes": 16777216,
+          "sourceBytes": 134217728,
+          "sha256": "ea3a1017ac6bd283e590f9786168bad837739063500a4126047bf59ed8285b08"
+        },
+        {
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part04",
+          "offset": 88177801,
+          "bytes": 16777216,
+          "sourceBytes": 134217728,
+          "sha256": "1ba66ea3443a1e60dd0df15fa3813157dc4b90924fa064defe41eca51af42ef7"
+        },
+        {
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part04",
+          "offset": 104955017,
+          "bytes": 16777216,
+          "sourceBytes": 134217728,
+          "sha256": "5cbac0ff96669cbecc8c1bcc2e25ff29c24c9e70c88392806b80e7da892badbb"
+        },
+        {
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part04",
+          "offset": 121732233,
+          "bytes": 12485495,
+          "sourceBytes": 134217728,
+          "sha256": "50c5ff512026062ab364cb2069c952e89db2b56231e794edd6463720d2110337"
+        },
+        {
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part05",
           "offset": 0,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "555a4cd33e3d544282e802b1feb17b5a5bf95d98b9a35391671b9ed575b90b45"
+          "sha256": "b384ee5f95d8abccfdec463a14464e40d045716b7961285cfd55a1591ef1df6c"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part06",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part05",
           "offset": 16777216,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "66f088eafa1d676e84165d70b467c66d439700d760aaec86b721d40e70b82963"
+          "sha256": "a1c73b828ca5751ca04437e113ac6e113e8c8ae89981732830a20f91a66f738b"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part06",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part05",
           "offset": 33554432,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "4e94fb7819e554db4734e0146521a986ca6fed70addc27392df5b642f12f2a1f"
+          "sha256": "91c31e000be7f2e900582066b8ada9663fceddb5b9b00c72e823c3dd3f8addd2"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part06",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part05",
           "offset": 50331648,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "b5a91dbeb7851eacc026c208ead1d1ae546d206d609fa957a0d0fba39215532b"
+          "sha256": "1fc031349942a41d6d290006003ad3035c66430599b3a87d3aa22040c2ccf466"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part06",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part05",
           "offset": 67108864,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "0aa43f7a918790767768343ff0b09730424690129348e2c2107f34a16595b182"
+          "sha256": "c5befe3a3193075a96af3be041f89d83e8e135d919698d815318da17e927a0e7"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part06",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part05",
           "offset": 83886080,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "815287121632dfc50b819807f0db599d51f060b92406c34ae6461142c1a92ac7"
+          "sha256": "f73a3ad56a8324ab07d98b8ebfaeab8e2616cc29b0d902cd21a569991e55c169"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part06",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part05",
           "offset": 100663296,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "e1740943871f92a00d7bf82b6f4cff5c14bc7bd4fe29c164fc9014f5c98e2e6a"
+          "sha256": "8663ed4cc2d20578e5fec06a6aa7ade7b0add152d805db07d3642d4972a03576"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part06",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part05",
           "offset": 117440512,
           "bytes": 16777216,
           "sourceBytes": 134217728,
-          "sha256": "7c88a244679fbb72ccfab1d30aaf200676f2863a58fa878a50173dce9c256be5"
+          "sha256": "b7d08818d97a65d7f9a6678c0f12084a9dd785f6ddf11e72cea3f7218e82879f"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part07",
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
           "offset": 0,
-          "bytes": 16777216,
-          "sourceBytes": 134217728,
-          "sha256": "d561f669a1646525acac193e5c5bf0306765924493856d65739e8c93d8f3a350"
-        },
-        {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part07",
-          "offset": 16777216,
-          "bytes": 16777216,
-          "sourceBytes": 134217728,
-          "sha256": "d1a32789506b7ef19008536e9f17916a1b0662ffa8b4e47fd242699c743a2abb"
-        },
-        {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part07",
-          "offset": 33554432,
-          "bytes": 16777216,
-          "sourceBytes": 134217728,
-          "sha256": "d2bfe0d338abc03b63218fed52913a0dd782497fd553d4c3dc38656af031a74a"
-        },
-        {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part07",
-          "offset": 50331648,
-          "bytes": 16777216,
-          "sourceBytes": 134217728,
-          "sha256": "61abe1d1303956f22a76e2b227fd8b8ebd0c8aed3e3f416db6694fc1a751259c"
-        },
-        {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part07",
-          "offset": 67108864,
-          "bytes": 16777216,
-          "sourceBytes": 134217728,
-          "sha256": "ef1cf3e15fd26ece3e6358dcd959d6e8f03ec2ff2ccaab3289fcf1d2661c1db3"
-        },
-        {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part07",
-          "offset": 83886080,
-          "bytes": 4735482,
-          "sourceBytes": 134217728,
-          "sha256": "5636e16885ddc75967b0642c1abe461c8872a1aa05b25717c5674b0e9e95ce9b"
+          "bytes": 10871341,
+          "sourceBytes": 95998676,
+          "sha256": "669276c4ddc48f04a4635c3f6167ba15c91a9e751200c6127d69530e76cf7dac"
         }
       ]
     },
@@ -5719,15 +5719,15 @@
     {
       "path": "SA SHOOT_Data/sharedassets10.assets",
       "bytes": 4706388,
-      "sha256": "a2002fe8a8176abd4e1bfc0b19029c59e1dd3c06cd323d78386dca53620fc260",
+      "sha256": "9098720b0d84310193914c2d1c2f74f1f633cbc486008d00bc9cd4bcdb2660fe",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part07",
-          "offset": 88621627,
-          "bytes": 2303776,
-          "sourceBytes": 134217728,
-          "sha256": "13be3336a4ef2926814ce15a2f89f943b155006b2759105fa8843ad3f1f69319"
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 10871406,
+          "bytes": 2303775,
+          "sourceBytes": 95998676,
+          "sha256": "897142b985860b1cfc0828ecffa20285bf829073e8a5bed1e7e872e4df369ab0"
         }
       ]
     },
@@ -5924,103 +5924,103 @@
     {
       "path": "SA SHOOT_Data/sharedassets11.assets",
       "bytes": 13653,
-      "sha256": "c38b429b4f7a7e780f259199b5805ffc7e1798ab572cc8e174d0cdacec8a15df",
+      "sha256": "5fac511276b2484d92025ce3757f6283c6f59b930522e5ce473eed588ec4dcad",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part10",
-          "offset": 112545625,
-          "bytes": 2385,
-          "sourceBytes": 134217728,
-          "sha256": "daa4a7124cf633e84515fb50da28b8233c193bf0872c6bb9cc4940c9d604971a"
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 13175246,
+          "bytes": 2380,
+          "sourceBytes": 95998676,
+          "sha256": "a272b7083aa65828b76986ef90aec8e9320c88dc60819d1404c60fa86390881e"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/sharedassets12.assets",
       "bytes": 13653,
-      "sha256": "af13bccf36fb0161b7e0d7359db34299c5af042cdb4bbb2dc815f5685fe54dbe",
+      "sha256": "99871c39aed322795c1308741f544749784d9daac9c461dab3b1ae3ad9574852",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part10",
-          "offset": 112548075,
-          "bytes": 2385,
-          "sourceBytes": 134217728,
-          "sha256": "59618fc3cd0329001ce2c770688ec6cde216185cde7738e03293969a09a52620"
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 13177691,
+          "bytes": 2380,
+          "sourceBytes": 95998676,
+          "sha256": "b64887595d17f61af91e1ef4beb553253ae78bb30a36ac655c3aade2c31480ca"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/sharedassets2.assets",
       "bytes": 25857,
-      "sha256": "6d5fe202d797a5b95588de256182ba1ea9f7bcb0db34c070283b32e06e007356",
+      "sha256": "c49fc1374b97c5c5302c3cccaa57716b62869fad381e7819009bc8317313f6b5",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part10",
-          "offset": 112550524,
-          "bytes": 4166,
-          "sourceBytes": 134217728,
-          "sha256": "2771d1988fcc7f0474c13ba73f3e356b71e98378aa5f2d4a1d2ed1fff687b5b4"
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 13180135,
+          "bytes": 4169,
+          "sourceBytes": 95998676,
+          "sha256": "3f1001b4eb11285b6ff30001f7f73676365b0ba1d0e588d608b404881ea3f41c"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/sharedassets3.assets",
       "bytes": 25857,
-      "sha256": "8485333180b727403d29ba61ee22fa3bc933349a1b9a5e235b0c56f98cd0e7f9",
+      "sha256": "1c7e81520526eafd2ee8461e0d08a36fd4dc5e47b8ef382408c4a8977f7caef9",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part10",
-          "offset": 112554754,
-          "bytes": 4163,
-          "sourceBytes": 134217728,
-          "sha256": "1598a475019dd02c49221a12ad89c40af88d82a25b49e06ed72cc9526d016263"
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 13184368,
+          "bytes": 4169,
+          "sourceBytes": 95998676,
+          "sha256": "44e873ddfe7de2d2a99676633e4e7454fe13d13acfa993fe50be9ef50e3140a5"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/sharedassets4.assets",
       "bytes": 270468204,
-      "sha256": "2b057396cd1ff28fdde56ba9120ae510ae6b711109050c68575716f5bb74bc3b",
+      "sha256": "b050b0cb5f5d1225e4113c6a5655818c333d68c8fd6d82031df163f1fd3ab27c",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part10",
-          "offset": 112558981,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 13188601,
           "bytes": 16777216,
-          "sourceBytes": 134217728,
-          "sha256": "796ccb9b332adee798914a8723a454d1f78d8239c522a67f58c72d5efb7c331d"
+          "sourceBytes": 95998676,
+          "sha256": "feae38e3c3737c366b3c29d5401a41e755eba68e594cba6e34101a9cb3ec4c97"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part10",
-          "offset": 129336197,
-          "bytes": 4881531,
-          "sourceBytes": 134217728,
-          "sha256": "a3230469e602366e75624f545f094ad6be68af0fe0043feaa88f47e087428eb1"
-        },
-        {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part11",
-          "offset": 0,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 29965817,
           "bytes": 16777216,
-          "sourceBytes": 134217728,
-          "sha256": "979456366b230a95990855b19e3b19af5d0fddab1bd28c820d571fc0fc01fb22"
+          "sourceBytes": 95998676,
+          "sha256": "d982530373c32de62575938e28d26d630a683d7bf9f149e0ba6e63742ea5b0da"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part11",
-          "offset": 16777216,
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 46743033,
           "bytes": 16777216,
-          "sourceBytes": 134217728,
-          "sha256": "d105aad4c80892f3ee440df3de3d59a26959c23595d89bf23a22a0d6e9ea5e6f"
+          "sourceBytes": 95998676,
+          "sha256": "2211b3a100fa5749924c10f6ee423af6284d1e1479f1c08fbbeb2864df8b92e1"
         },
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part11",
-          "offset": 33554432,
-          "bytes": 12082562,
-          "sourceBytes": 134217728,
-          "sha256": "9d97ced315f5390facf1e9d0b2e83599ca01f35e0917bfcc8f33eac0764f4595"
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 63520249,
+          "bytes": 16777216,
+          "sourceBytes": 95998676,
+          "sha256": "ca1da8023e8c643f71c850ae12b2bcdb4fba1a5e05615dffa33d8c9083c0603c"
+        },
+        {
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 80297465,
+          "bytes": 186856,
+          "sourceBytes": 95998676,
+          "sha256": "8c435e4ae869b817e496df63f0e76d3f0f94f1a2eccae233fdbcd579e9d5dd9e"
         }
       ]
     },
@@ -6070,45 +6070,45 @@
     {
       "path": "SA SHOOT_Data/sharedassets5.assets",
       "bytes": 2710496,
-      "sha256": "b81ddb2a2fdc065fe831147f5f817f793b4a8332dce74114601664d0fc9ea6ef",
+      "sha256": "d54868d6e713949c2819802a59f2ba43df6501550716866527a4ac03b21fd934",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part11",
-          "offset": 45637058,
-          "bytes": 1336682,
-          "sourceBytes": 134217728,
-          "sha256": "d2694e155f1a69dbb2de6ccdbbc8c6f089fc6fe8e5b17e4fc6bdf1fbef6b4c55"
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 80484385,
+          "bytes": 1336668,
+          "sourceBytes": 95998676,
+          "sha256": "865d07ddedf88a6556e5694d063d7339a66858d68d2f1efa8369b52d8707ff41"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/sharedassets6.assets",
       "bytes": 15305,
-      "sha256": "27e33287156e431f43159733578992b1bb3ca291c3d1b4996bb7c162d478253a",
+      "sha256": "d2e1d3848cbe2928455bf1b2b1a943486bbdf81d5ab5e6a882e6b7c3241aae90",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part11",
-          "offset": 46973804,
-          "bytes": 2683,
-          "sourceBytes": 134217728,
-          "sha256": "0760c04bec43d006380573649bcefba43c67722715abb99e25fe78278a0cf1ba"
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 81821117,
+          "bytes": 2680,
+          "sourceBytes": 95998676,
+          "sha256": "6559b482cab5519d614e2fa9787ac06257c5ad2a4a1909d807b0f950ac9d415a"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/sharedassets7.assets",
       "bytes": 36190520,
-      "sha256": "3f058b604819496bc520b461eac9d9705062eda5032369d1595f0bfeb3a7477b",
+      "sha256": "af995873a205193e72185a06b6b1c7582057b11d63c21f1330ac18443f267136",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part11",
-          "offset": 46976551,
-          "bytes": 14166994,
-          "sourceBytes": 134217728,
-          "sha256": "fcdf5373d9359f5694eb77387219748e7be6757cb358339254e82245ebbfa6d5"
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 81823861,
+          "bytes": 14167004,
+          "sourceBytes": 95998676,
+          "sha256": "eb1001816c89bd09b7fcf734352687f70f88668c7d347636dd2052ba98db0bb1"
         }
       ]
     },
@@ -6200,30 +6200,30 @@
     {
       "path": "SA SHOOT_Data/sharedassets8.assets",
       "bytes": 14589,
-      "sha256": "b6d0d15e19b8659aa8a1a35bd9d979c23d88dfdc6749e739ea16fcc21fddb7d3",
+      "sha256": "cf9ecff34b7b30c029b121b84c6217210fd3f7c3280b24c1c6da2aca1d67fe14",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part12",
-          "offset": 98661443,
-          "bytes": 2553,
-          "sourceBytes": 98669803,
-          "sha256": "1b51613ab668ba18a5726ba31107c069d3acc231401177e2108a7d7a32ad7672"
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 95990929,
+          "bytes": 2548,
+          "sourceBytes": 95998676,
+          "sha256": "863f37bc787df4e42383dbc7f8e4368817f2e79e5546037765b267bcc38159af"
         }
       ]
     },
     {
       "path": "SA SHOOT_Data/sharedassets9.assets",
       "bytes": 14589,
-      "sha256": "9fbde241ebc3d906e6c6bca65ae81de30a535da235d9838ae33c6b5a63af4692",
+      "sha256": "82e369d992aeb6957ae047d0e6130fe03074bf59798786fe3022a54c1b45017a",
       "encoding": "deflate",
       "chunks": [
         {
-          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.3/SA-SHOOT-1.7.3-r7-changes.part12",
-          "offset": 98664060,
-          "bytes": 2552,
-          "sourceBytes": 98669803,
-          "sha256": "796652e19529ac192419aec85fbaef6df5dc91aec3e3fd377448c90327adb435"
+          "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/v1.7.4/SA-SHOOT-1.7.4-r8-changes.part06",
+          "offset": 95993541,
+          "bytes": 2549,
+          "sourceBytes": 95998676,
+          "sha256": "b3805bc052d0c8c6c64b9beb9c572e56645961617d40577e8bc79ee6ca22b214"
         }
       ]
     },
