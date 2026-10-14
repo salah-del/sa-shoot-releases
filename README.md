@@ -8,7 +8,7 @@
 
 
 
-<p align="center"><img src="assets/versions.svg" alt="Game v1.7.4 · Launcher v4.0 · Public test · Windows 64-bit" width="700"></p>
+<p align="center"><img src="assets/versions.svg" alt="Game v1.7.6 · Launcher v4.0 · Public test · Windows 64-bit" width="700"></p>
 
 
 
@@ -128,82 +128,18 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-**Game 1.7.4 is live.** Updating from 1.7.3 takes about **901 MB**. The launcher keeps unchanged files and verifies the update before **PLAY** becomes available.
+**Game 1.7.6 is live.** Updating from 1.7.3 takes about **939 MB**. The launcher keeps unchanged files and verifies the update before **PLAY** becomes available.
 
 
 
-### New in 1.7.4
+### New in 1.7.6
 
-- **Smoother bot escapes:** fixed severe stalls when bots search for a way out of Molotov fire.
+- Update recovery: the launcher and Unity game now agree on the installed version, fixing the repeated update screen.
+- Current account wallet, Market, Weapon Gallery and Phantom Eclipse artwork/audio included.
+- Grenade/Molotov guidance and the bot fire-escape performance fix retained.
+- Existing 1.7.5 installations download about **939 MB of changed files**; your account and settings stay in place.
 
-- **Luminous throw guidance:** a raised contact marker that follows the surface.
-- **Clear guidance while sprinting:** one current path, without repeated motion trails.
-- **Lighter overlapping fires:** bounded Molotov particles and lights, with unchanged damage rules.
-
-### Included in 1.7.3
-
-
-
-| 🎯 Practice your way | 🛡️ Prepare for the fight | ◈ Clearer combat |
-
-| :--- | :--- | :--- |
-
-| **Custom Training:** choose your map, bots and difficulty. Use the in-world console, pause the timer or leave the market open. | **Five armor options:** a separate market section with remaining armor carried between surviving rounds. | **Smoother grenade and Molotov effects**, full-body Overguard, smooth skill cooldowns and an optional **FPS counter**. |
-
-
-
-- Explore **Railway** and **Victorian**, alongside Rusthaven and Sunport.
-
-- Inspect exact Wraith hit zones and weapon-specific bullet trails with adjustable visibility time.
-
-- Enable **Settings → Graphics → Show FPS** from the lobby or during a match.
-
-- Your launcher reuses unchanged files. Larger updates include new map content; no full reinstall is needed.
-
-
-
-<details>
-
-<summary><strong>Help with installation and updates</strong></summary>
-
-
-
-- **Interrupted download?** Use **RESUME** or **RETRY**. Completed, verified downloads are reused.
-
-- **Missing or damaged files?** Open **SETTINGS → VERIFY / REPAIR GAME FILES**.
-
-- **Using Launcher 2.0?** Open Launcher 4.0 once and choose **LOCATE GAME**. Keep your game folder. Future launcher updates appear inside the launcher.
-
-- **Windows shows an unfamiliar publisher?** This public-test launcher is not code-signed yet. Use the download button on this page; no security-setting changes are required.
-
-- **Do I need other files?** No. Download the launcher using the button above; it handles game installation and updates.
-
-
-
-</details>
-
-
-
-<details>
-
-<summary><strong>Public-test status and music credits</strong></summary>
-
-
-
-SA SHOOT is an early public test. Some players may encounter connection issues. [Read the 1.7.4 release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.7.4).
-
-
-
-'Nightfall' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
-
-
-
-[Track and composer](https://www.scottbuckley.com.au/library/nightfall/) · [License](https://creativecommons.org/licenses/by/4.0/). The lobby's **Music Credits** button copies the attribution for videos.
-
-
-
-</details>
-
+[Read the release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.7.6)
 
 
 ## العربية
@@ -222,7 +158,7 @@ SA SHOOT is an early public test. Some players may encounter connection issues. 
 
 
 
-**الإصدار الحالي: 1.7.4 — اللانشر: 4.0.**
+**الإصدار الحالي: 1.7.6 — اللانشر: 4.0.**
 
 
 
@@ -236,7 +172,7 @@ SA SHOOT is an early public test. Some players may encounter connection issues. 
 
 
 
-التحديث من **1.7.3** حوالي **901 ميجابايت**، ويحسّن مسار تصويب القنابل وتأثيرات المولوتوف؛ مش محتاج تنزّل اللعبة كاملة. لو التنزيل وقف، تقدر تكمّله من اللانشر.
+التحديث من **1.7.3** حوالي **939 ميجابايت**، ويحسّن مسار تصويب القنابل وتأثيرات المولوتوف؛ مش محتاج تنزّل اللعبة كاملة. لو التنزيل وقف، تقدر تكمّله من اللانشر.
 
 
 
