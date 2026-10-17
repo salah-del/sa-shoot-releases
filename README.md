@@ -8,7 +8,7 @@
 
 
 
-<p align="center"><img src="assets/versions.svg" alt="Game v1.7.8 · Launcher v4.0 · Public test · Windows 64-bit" width="700"></p>
+<p align="center"><img src="assets/versions.svg" alt="Game v1.7.9 · Launcher v4.0 · Public test · Windows 64-bit" width="700"></p>
 
 
 
@@ -128,19 +128,18 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-**Game 1.7.8 is live.** Updating from 1.7.7 takes about **29 MB**. The launcher keeps unchanged files and verifies the update before **PLAY** becomes available.
+**Game 1.7.9 is live.** Updating from 1.7.8 takes about **29 MB**. The launcher keeps unchanged files and verifies the update before **PLAY** becomes available.
 
 
 
-### New in 1.7.8
+### New in 1.7.9
 
-- Uncapped rendering with VSync disabled; actual FPS depends on your device and scene.
-- Consistent mouse sensitivity and reduced procedural camera movement.
-- Improved first-person weapon visibility during sprinting, reloads and fast turns.
-- Sprint/reload motion stays within a bounded pose; empty-weapon part correction is applied once.
-- Existing 1.7.7 installations download about **29 MB of changed files**. Accounts, XP and settings are preserved.
+- Fixed an incorrect reload-ending animation that separated first-person weapons from the hands.
+- Preserved the separate closing animation used by shell-by-shell reloads.
+- Moved the FPS monitor beside the connection badge, clear of kill messages.
+- Existing 1.7.8 installations download about **29 MB of changed files**. Accounts, XP and settings are preserved.
 
-[Read the release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.7.8)
+[Read the release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.7.9)
 
 
 ## العربية
@@ -159,7 +158,7 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-**الإصدار الحالي: 1.7.8 — اللانشر: 4.0.**
+**الإصدار الحالي: 1.7.9 — اللانشر: 4.0.**
 
 
 
@@ -173,7 +172,7 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-التحديث من **1.7.7** حوالي **29 ميجابايت**: فريمات مفتوحة، حركة رؤية أهدى وتحسين ظهور السلاح أثناء الجري والريلود. مش محتاج تنزّل اللعبة كاملة. لو التنزيل وقف، تقدر تكمّله من اللانشر.
+التحديث من **1.7.8** حوالي **29 ميجابايت**: إصلاح اختفاء السلاح بعد الريلود وفصل عدّاد الفريمات عن رسائل القتل. مش محتاج تنزّل اللعبة كاملة. لو التنزيل وقف، تقدر تكمّله من اللانشر.
 
 
 
