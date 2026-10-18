@@ -8,7 +8,7 @@
 
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/salah-del/sa-shoot-releases/main/assets/versions.svg" alt="Game v1.8.0 · Launcher v4.0 · Public test · Windows 64-bit" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/salah-del/sa-shoot-releases/main/assets/versions.svg" alt="Game v1.8.1 · Launcher v4.0 · Public test · Windows 64-bit" width="700"></p>
 
 
 
@@ -128,20 +128,20 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-**Game 1.8.0 is live.** Updating from 1.7.9 takes about **594 MB**. The launcher keeps unchanged files and verifies the update before **PLAY** becomes available.
+**Game 1.8.1 is live.** Updating from 1.8.0 takes about **594 MB**. The launcher keeps unchanged files and verifies the update before **PLAY** becomes available.
 
 
 
-### New in 1.8.0
+### New in 1.8.1
 
-- Team health and protection, connection status and clearer combat confirmations.
-- Precise animated head hit detection; hidden enemy overhead numbers.
-- Reload progress, ammo warnings, skill readiness, effect timers and zone guidance.
-- Loot previews and safe weapon replacement.
-- Responsive HUD controls for scale, opacity and reduced motion.
-- Existing 1.7.9 installations download about **594 MB of changed files**. Accounts, XP and settings are preserved.
+- Smoother camera controls, separate aiming sensitivities and remappable keys.
+- Sprint/reload weapon handling, jump grace and safer shots near cover.
+- FPS/frame-time/1% low display and connection-quality indicators.
+- Fixed effect accumulation between matches, bounded particles and pooled audio.
+- Settings backup, display-change confirmation and improved bot positioning.
+- Existing 1.8.0 installations download about **594 MB of changed files**. Accounts, XP and settings are preserved.
 
-[Read the release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.8.0)
+[Read the release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.8.1)
 
 
 ## العربية
@@ -160,7 +160,7 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-**الإصدار الحالي: 1.8.0 — اللانشر: 4.0.**
+**الإصدار الحالي: 1.8.1 — اللانشر: 4.0.**
 
 
 
@@ -174,7 +174,7 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-التحديث من **1.7.9** حوالي **594 ميجابايت**: هيلث ودروع الفريق، إصابات دقيقة، وتنبيهات وواجهة لعب متجاوبة. مش محتاج تنزّل اللعبة كاملة. لو التنزيل وقف، تقدر تكمّله من اللانشر.
+التحديث من **1.8.0** حوالي **594 ميجابايت**: تحسين السلاسة والتحكم وثبات الذاكرة والمؤثرات. مش محتاج تنزّل اللعبة كاملة. لو التنزيل وقف، تقدر تكمّله من اللانشر.
 
 
 
