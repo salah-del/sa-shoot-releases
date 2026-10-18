@@ -8,7 +8,7 @@
 
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/salah-del/sa-shoot-releases/main/assets/versions.svg" alt="Game v1.7.9 · Launcher v4.0 · Public test · Windows 64-bit" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/salah-del/sa-shoot-releases/main/assets/versions.svg" alt="Game v1.8.0 · Launcher v4.0 · Public test · Windows 64-bit" width="700"></p>
 
 
 
@@ -128,18 +128,20 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-**Game 1.7.9 is live.** Updating from 1.7.8 takes about **29 MB**. The launcher keeps unchanged files and verifies the update before **PLAY** becomes available.
+**Game 1.8.0 is live.** Updating from 1.7.9 takes about **594 MB**. The launcher keeps unchanged files and verifies the update before **PLAY** becomes available.
 
 
 
-### New in 1.7.9
+### New in 1.8.0
 
-- Fixed an incorrect reload-ending animation that separated first-person weapons from the hands.
-- Preserved the separate closing animation used by shell-by-shell reloads.
-- Moved the FPS monitor beside the connection badge, clear of kill messages.
-- Existing 1.7.8 installations download about **29 MB of changed files**. Accounts, XP and settings are preserved.
+- Team health and protection, connection status and clearer combat confirmations.
+- Precise animated head hit detection; hidden enemy overhead numbers.
+- Reload progress, ammo warnings, skill readiness, effect timers and zone guidance.
+- Loot previews and safe weapon replacement.
+- Responsive HUD controls for scale, opacity and reduced motion.
+- Existing 1.7.9 installations download about **594 MB of changed files**. Accounts, XP and settings are preserved.
 
-[Read the release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.7.9)
+[Read the release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.8.0)
 
 
 ## العربية
@@ -158,7 +160,7 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-**الإصدار الحالي: 1.7.9 — اللانشر: 4.0.**
+**الإصدار الحالي: 1.8.0 — اللانشر: 4.0.**
 
 
 
@@ -172,7 +174,7 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-التحديث من **1.7.8** حوالي **29 ميجابايت**: إصلاح اختفاء السلاح بعد الريلود وفصل عدّاد الفريمات عن رسائل القتل. مش محتاج تنزّل اللعبة كاملة. لو التنزيل وقف، تقدر تكمّله من اللانشر.
+التحديث من **1.7.9** حوالي **594 ميجابايت**: هيلث ودروع الفريق، إصابات دقيقة، وتنبيهات وواجهة لعب متجاوبة. مش محتاج تنزّل اللعبة كاملة. لو التنزيل وقف، تقدر تكمّله من اللانشر.
 
 
 
