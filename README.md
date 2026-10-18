@@ -8,7 +8,7 @@
 
 
 
-<p align="center"><img src="assets/versions.svg" alt="Game v1.8.1 · Launcher v4.0 · Public test · Windows 64-bit" width="700"></p>
+<p align="center"><img src="assets/versions.svg" alt="Game v1.8.3 · Launcher v4.0 · Public test · Windows 64-bit" width="700"></p>
 
 
 
@@ -128,21 +128,21 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-**Game 1.8.1 is live.** Updating from 1.8.0 takes about **594 MB**. The launcher keeps unchanged files and verifies the update before **PLAY** becomes available.
+**Game 1.8.3 is live.** The launcher downloads only the changed files your installation needs, keeps unchanged files and verifies the update before **PLAY** becomes available.
 
+### New in 1.8.3
 
+- Improved sign-in and recovery from friends notification connection failures, with account and party readiness still checked before entering the lobby.
+- Queue time updates between server responses; Arabic player names use connected glyphs and the correct reading direction.
 
-### New in 1.8.1
+- Phantom Eclipse collection for AKM, M1911 and Revolver, with spectral inspection and cosmetic impact effects.
+- Original mechanical reload audio without the mixed music track; inspection audio stops when interrupted.
+- Optimized spectral geometry, corrected tracer origin and reload aura.
+- Server-validated cosmetic selection and resale for half the paid price.
+- Empty matchmaking seats fill with bots after one minute, with varied player-style names.
+- Accounts, XP and settings are preserved. Unchanged game files are reused.
 
-- Smoother camera controls, separate aiming sensitivities and remappable keys.
-- Sprint/reload weapon handling, jump grace and safer shots near cover.
-- FPS/frame-time/1% low display and connection-quality indicators.
-- Fixed effect accumulation between matches, bounded particles and pooled audio.
-- Settings backup, display-change confirmation and improved bot positioning.
-- Existing 1.8.0 installations download about **594 MB of changed files**. Accounts, XP and settings are preserved.
-
-[Read the release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.8.1)
-
+[Read the release notes](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.8.3)
 
 ## العربية
 
@@ -160,7 +160,7 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-**الإصدار الحالي: 1.8.1 — اللانشر: 4.0.**
+**الإصدار الحالي: 1.8.3 — اللانشر: 4.0.**
 
 
 
@@ -174,7 +174,7 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
 
 
 
-التحديث من **1.8.0** حوالي **594 ميجابايت**: تحسين السلاسة والتحكم وثبات الذاكرة والمؤثرات. مش محتاج تنزّل اللعبة كاملة. لو التنزيل وقف، تقدر تكمّله من اللانشر.
+التحديث بيصلّح الدخول واستعادة الاتصال، وبيضم باندل Phantom Eclipse، ريلود بدون موسيقى، بوتات بعد دقيقة، وأسماء عربية وعداد بحث مستمر. اللانشر بينزّل الملفات المتغيّرة اللي جهازك محتاجها بس. مش محتاج تنزّل اللعبة كاملة، ولو التنزيل وقف تقدر تكمّله.
 
 
 
@@ -197,4 +197,5 @@ Your launcher keeps the game ready. Download once, keep your installation, and g
   <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/launcher-v4.0/SA-SHOOT-Setup.exe"><strong>↓ DOWNLOAD FOR WINDOWS</strong></a>
 
 </p>
+
 
