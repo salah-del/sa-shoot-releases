@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/launcher-v4.0/SA-SHOOT-Setup.exe",
   "schema": 1,
-  "bytes": 74947544,
-  "version": "4.0.0",
-  "sha256": "3b3fd3c7e47bd72e1d7b5b4d3b4236093ba46d1e4ea0b60d13d1a28dcdf114aa"
+  "version": "4.1.0",
+  "bytes": 141607747,
+  "sha256": "b47ab2baf35b71bfd9900c8c2b6f9be9935c25633c8a01129c7eb7a972a6aebe",
+  "url": "https://github.com/salah-del/sa-shoot-releases/releases/download/launcher-v4.1/SA-SHOOT-Setup.exe"
 }
