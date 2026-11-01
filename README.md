@@ -10,16 +10,16 @@
 </p>
 
 <p align="center">
-  <img src="assets/versions.svg" alt="Game 1.8.4 · Launcher 4.1 · Public test · Windows x64" width="700">
+  <img src="assets/versions.svg" alt="Game 1.8.9 · Launcher 4.2.3 · Public test · Windows x64" width="700">
 </p>
 
 <p align="center">
-  <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/launcher-v4.1/SA-SHOOT-Setup.exe"><img src="assets/download-windows.svg" alt="Download SA SHOOT Launcher 4.1 for Windows — 141.6 MB" width="430"></a><br>
+  <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/launcher-v4.2.3/SA-SHOOT-Setup.exe"><img src="assets/download-windows.svg" alt="Download SA SHOOT Launcher 4.2.3 for Windows — 79.1 MB" width="430"></a><br>
   <sub>Windows 64-bit · Internet connection and a registered account required</sub><br><br>
   <a href="#the-arena">GAMEPLAY</a> &nbsp; / &nbsp;
   <a href="#your-squad">THE LOBBY</a> &nbsp; / &nbsp;
   <a href="#play-in-three-steps">INSTALL</a> &nbsp; / &nbsp;
-  <a href="#new-in-184">WHAT'S NEW</a> &nbsp; / &nbsp;
+  <a href="#new-in-189">WHAT'S NEW</a> &nbsp; / &nbsp;
   <a href="#العربية">العربية</a>
 </p>
 
@@ -57,20 +57,20 @@
 
 ![SA SHOOT lobby showing Wraith teammates, mode selection and friends](assets/lobby-nightfall.png)
 
-<p align="center"><sub>In-game lobby preview with an example party.</sub></p>
+<p align="center"><sub>Lobby preview from an earlier public test, with an example party. The current interface may differ.</sub></p>
 
 | TEAM PLAY | PRACTICE | MAKE IT YOURS |
 | :--- | :--- | :--- |
 | Bring friends into your party and use team voice controls. | Train against bots or configure a Custom session. | Adjust HUD placement, text sizes, controls and weapon-wheel preferences. |
-| Use recon and team pings to share information. | Explore four arenas and learn your ability timings. | Keep your account and settings between updates. |
+| Use recon and team pings to share information. | Explore the Competitive arenas, or practise Final Ground locally. | Keep your account and settings between updates. |
 
 ## Play in three steps
 
 **A single launcher. Your existing installation stays with you.**
 
-![SA SHOOT Launcher 4.1 with arena previews, installation detection and update controls](assets/launcher.png)
+![Update flow: launcher, changed game files, verification, then play](assets/launcher-flow-423.svg)
 
-<p align="center"><sub>Actual Launcher 4.1 · Game 1.8.4 verified and ready to play.</sub></p>
+<p align="center"><sub>Update flow for Launcher 4.2.3 and Game 1.8.9. PLAY unlocks after file verification.</sub></p>
 
 | | FIRST TIME HERE | ALREADY HAVE THE GAME |
 | :---: | :--- | :--- |
@@ -80,19 +80,21 @@
 
 > **Keep what you downloaded.** Updates reuse verified unchanged files and download only the changed or damaged files your installation needs. If a transfer stops, reopen the launcher to resume.
 
-## New in 1.8.4
+## New in 1.8.9
 
 | IN THE MATCH | IN YOUR HANDS | BETWEEN MATCHES |
 | :--- | :--- | :--- |
-| Interrupted-connection recovery that preserves match resources. | Clearer active-skill feedback and grenade/Molotov selection. | Private matches and cooperative practice. |
-| Team pings, voice controls and AFK takeover. | Adjustable HUD text, weapon-wheel order and proportioned icons. | More training controls and optional local gameplay highlights. |
+| Refined map markers and last-seen information. | Tested sprint/reload visibility across ten firearms. | Verified incremental updates with file repair and resume. |
+| Clear KILLS / ALIVE information and improved HUD placement. | Floating weapon pickups with shared ownership checks. | Local Final Ground practice on Sherwood and DarkForest. |
 
-**Launcher 4.1** introduces a refreshed navy, cyan and violet interface, clear update-service status, current-version patch notes and automatic launcher updates.
+**Launcher 4.2.3** adds an optional Windows presentation compatibility setting and a tested restart handoff with recovery if startup fails. It checks the installed game before enabling **PLAY**.
+
+> **Public test:** performance is still being improved, especially in dense DarkForest areas. Frame rate depends on your hardware and settings. Final Ground online is temporarily unavailable; local practice remains available.
 
 <details>
 <summary><strong>Coming soon — features temporarily locked</strong></summary>
 
-Private spectators, Replay/timeline and Rematch remain visible with a lock and **Coming soon**. Ordinary online matches and the teammate view after death remain available.
+Final Ground online, private spectators, Replay/timeline and Rematch are temporarily unavailable. Final Ground local practice remains available. Competitive modes are separate from this restriction.
 
 </details>
 
@@ -107,7 +109,7 @@ Private spectators, Replay/timeline and Rematch remain visible with a lock and *
 
 </details>
 
-[Read the release notes →](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.8.4)
+[Read the release notes →](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.8.9)
 
 ---
 
@@ -119,7 +121,7 @@ Private spectators, Replay/timeline and Rematch remain visible with a lock and *
 
 لعبة تصويب تكتيكية بمودات **1 ضد 1، و2 ضد 2، و3 ضد 3**. اختار من **28 مهارة**، العب مع أصحابك، واكسب المواجهة قبل ما الزون تقفل. الماتش **8 راوندات**، ومع التعادل **4–4** فيه راوند فاصل.
 
-**اللعبة 1.8.4 · اللانشر 4.1 · نسخة اختبار عامة**
+**اللعبة 1.8.9 · اللانشر 4.2.3 · نسخة اختبار عامة**
 
 1. نزّل اللانشر من زر **Download for Windows**.
 2. أول مرة؟ اختار فولدر واضغط **DOWNLOAD**.
@@ -128,7 +130,7 @@ Private spectators, Replay/timeline and Rematch remain visible with a lock and *
 
 **مش محتاج تنزّل اللعبة من الأول.** اللانشر بيحتفظ بالملفات السليمة، وبينزّل المتغيّر أو التالف فقط. ولو التنزيل وقف، تقدر تكمّله.
 
-التحديث يشمل تحسينات التحكم وواجهة اللعب واستعادة الاتصال، مع لانشر بشكل جديد. **المتفرّج الخاص والـReplay والـRematch مقفولين مؤقتًا بعلامة Coming soon.**
+التحديث يشمل إصلاحات ظهور السلاح أثناء الجري والريلود، التقاط الأسلحة، علامات الخريطة وواجهة اللعب. اللانشر بيفحص الملفات وبيحدّث المتغيّر فقط، مع إعادة تشغيل مختبرة وخيار توافق للعرض على Windows. **أونلاين Final Ground والمتفرّج الخاص والـReplay والـRematch مؤجلين.** تدريب Final Ground المحلي متاح على Sherwood وDarkForest؛ تحسين الأداء مستمر، خصوصًا في المناطق الكثيفة.
 
 </div>
 
@@ -136,6 +138,6 @@ Private spectators, Replay/timeline and Rematch remain visible with a lock and *
 
 <p align="center">
   <strong>READY FOR YOUR NEXT ROUND?</strong><br><br>
-  <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/launcher-v4.1/SA-SHOOT-Setup.exe"><img src="assets/download-windows.svg" alt="Download the SA SHOOT Windows launcher" width="360"></a><br><br>
+  <a href="https://github.com/salah-del/sa-shoot-releases/releases/download/launcher-v4.2.3/SA-SHOOT-Setup.exe"><img src="assets/download-windows.svg" alt="Download the SA SHOOT Windows launcher" width="360"></a><br><br>
   <sub>SA / SHOOT — THE WRAITH PROTOCOL</sub>
 </p>
