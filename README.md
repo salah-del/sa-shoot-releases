@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/versions.svg" alt="Game 1.8.9 · Launcher 4.2.3 · Public test · Windows x64" width="700">
+  <img src="assets/versions.svg" alt="Game 1.9.0 · Launcher 4.2.3 · Public test · Windows x64" width="700">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <a href="#the-arena">GAMEPLAY</a> &nbsp; / &nbsp;
   <a href="#your-squad">THE LOBBY</a> &nbsp; / &nbsp;
   <a href="#play-in-three-steps">INSTALL</a> &nbsp; / &nbsp;
-  <a href="#new-in-189">WHAT'S NEW</a> &nbsp; / &nbsp;
+  <a href="#new-in-190">WHAT'S NEW</a> &nbsp; / &nbsp;
   <a href="#العربية">العربية</a>
 </p>
 
@@ -62,7 +62,7 @@
 | TEAM PLAY | PRACTICE | MAKE IT YOURS |
 | :--- | :--- | :--- |
 | Bring friends into your party and use team voice controls. | Train against bots or configure a Custom session. | Adjust HUD placement, text sizes, controls and weapon-wheel preferences. |
-| Use recon and team pings to share information. | Explore the Competitive arenas, or practise Final Ground locally. | Keep your account and settings between updates. |
+| Use recon and team pings to share information. | Explore the Competitive arenas, or play Final Ground with your squad. | Keep your account and settings between updates. |
 
 ## Play in three steps
 
@@ -70,7 +70,7 @@
 
 ![Update flow: launcher, changed game files, verification, then play](assets/launcher-flow-423.svg)
 
-<p align="center"><sub>Update flow for Launcher 4.2.3 and Game 1.8.9. PLAY unlocks after file verification.</sub></p>
+<p align="center"><sub>Update flow for Launcher 4.2.3 and Game 1.9.0. PLAY unlocks after file verification.</sub></p>
 
 | | FIRST TIME HERE | ALREADY HAVE THE GAME |
 | :---: | :--- | :--- |
@@ -80,21 +80,23 @@
 
 > **Keep what you downloaded.** Updates reuse verified unchanged files and download only the changed or damaged files your installation needs. If a transfer stops, reopen the launcher to resume.
 
-## New in 1.8.9
+## New in 1.9.0
 
-| IN THE MATCH | IN YOUR HANDS | BETWEEN MATCHES |
+| FINAL GROUND | PRIVATE PRACTICE | CLEARER INFORMATION |
 | :--- | :--- | :--- |
-| Refined map markers and last-seen information. | Tested sprint/reload visibility across ten firearms. | Verified incremental updates with file repair and resume. |
-| Clear KILLS / ALIVE information and improved HUD placement. | Floating weapon pickups with shared ownership checks. | Local Final Ground practice on Sherwood and DarkForest. |
+| Join your squad in a 48-seat match on Sherwood or DarkForest. | Share hit-zone and shot-path training overlays with your friend. | Navigate the full map with zoom, pan, supply markers and team waypoints. |
+| Reconnect to your match; results and XP are recorded once. | Host-controlled settings, death reports and practice respawns stay in sync. | Improved report layout, loading feedback and responsive interface sizing. |
 
-**Launcher 4.2.3** adds an optional Windows presentation compatibility setting and a tested restart handoff with recovery if startup fails. It checks the installed game before enabling **PLAY**.
+**Update together.** This version uses a new match protocol. Everyone in a party must update before joining a new match together.
 
-> **Public test:** performance is still being improved, especially in dense DarkForest areas. Frame rate depends on your hardware and settings. Final Ground online is temporarily unavailable; local practice remains available.
+**Launcher 4.2.3** remains the current launcher. It verifies installed files, downloads changed or damaged files, and preserves your account and settings.
+
+> **Public test:** performance is still being improved, especially in dense DarkForest areas. Frame rate depends on your hardware and settings. Online tests used separate accounts and real network clients on one PC; independent-device testing remains outstanding. Final Ground uses host-authoritative gameplay with server-validated rewards; it does not use a dedicated authoritative game server.
 
 <details>
 <summary><strong>Coming soon — features temporarily locked</strong></summary>
 
-Final Ground online, private spectators, Replay/timeline and Rematch are temporarily unavailable. Final Ground local practice remains available. Competitive modes are separate from this restriction.
+Private spectators, Replay/timeline and Rematch remain temporarily unavailable.
 
 </details>
 
@@ -109,7 +111,7 @@ Final Ground online, private spectators, Replay/timeline and Rematch are tempora
 
 </details>
 
-[Read the release notes →](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.8.9)
+[Read the release notes →](https://github.com/salah-del/sa-shoot-releases/releases/tag/v1.9.0)
 
 ---
 
@@ -121,7 +123,7 @@ Final Ground online, private spectators, Replay/timeline and Rematch are tempora
 
 لعبة تصويب تكتيكية بمودات **1 ضد 1، و2 ضد 2، و3 ضد 3**. اختار من **28 مهارة**، العب مع أصحابك، واكسب المواجهة قبل ما الزون تقفل. الماتش **8 راوندات**، ومع التعادل **4–4** فيه راوند فاصل.
 
-**اللعبة 1.8.9 · اللانشر 4.2.3 · نسخة اختبار عامة**
+**اللعبة 1.9.0 · اللانشر 4.2.3 · نسخة اختبار عامة**
 
 1. نزّل اللانشر من زر **Download for Windows**.
 2. أول مرة؟ اختار فولدر واضغط **DOWNLOAD**.
@@ -130,7 +132,11 @@ Final Ground online, private spectators, Replay/timeline and Rematch are tempora
 
 **مش محتاج تنزّل اللعبة من الأول.** اللانشر بيحتفظ بالملفات السليمة، وبينزّل المتغيّر أو التالف فقط. ولو التنزيل وقف، تقدر تكمّله.
 
-التحديث يشمل إصلاحات ظهور السلاح أثناء الجري والريلود، التقاط الأسلحة، علامات الخريطة وواجهة اللعب. اللانشر بيفحص الملفات وبيحدّث المتغيّر فقط، مع إعادة تشغيل مختبرة وخيار توافق للعرض على Windows. **أونلاين Final Ground والمتفرّج الخاص والـReplay والـRematch مؤجلين.** تدريب Final Ground المحلي متاح على Sherwood وDarkForest؛ تحسين الأداء مستمر، خصوصًا في المناطق الكثيفة.
+التحديث يفتح أونلاين **Final Ground** مع أصحابك، مع مزامنة النتيجة وتسجيل الـXP مرة واحدة. الكاستم الخاص يشارك حدود الإصابة ومسار الطلقات بين اللاعبين. الخريطة الكبيرة فيها تكبير وتحريك ومواقع الإمدادات وعلامات الفريق، مع تحسين تقرير الموت والتحميل والواجهات.
+
+**حدّثوا كلكم قبل دخول الـParty للمباراة.** اللانشر الحالي **4.2.3** ينزّل الملفات المتغيّرة أو التالفة فقط؛ مش مطلوب تنزيل اللعبة كاملة.
+
+**المتفرّج الخاص والـReplay والـRematch لسه مقفولين.** تحسين الأداء مستمر، خصوصًا في المناطق الكثيفة. اختبار الأونلاين اتعمل بحسابين وعميلين فعليين على نفس الجهاز؛ اختبار أجهزة وشبكات مستقلة لسه مطلوب. استضافة اللعب حاليًا عند الـHost، والنتيجة والمكافآت بيتراجعوا في الخدمة؛ مفيش سيرفر لعب مستقل موثوق بالكامل.
 
 </div>
 
